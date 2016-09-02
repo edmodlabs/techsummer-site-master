@@ -1,0 +1,12 @@
+*.log
+.DS_Store
+.deploy*/
+.multidep
+Thumbs.db
+_config.local.yml
+_config.yml
+db.json
+node_modules/
+npm-debug*.log
+public/
+src/_drafts
