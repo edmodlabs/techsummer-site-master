@@ -145,7 +145,7 @@ facebook:
   techstart:
     support_url: https://www.facebook.com/groups/TechStartSupport
 
-aframe_version: 0.3.0
+aframe_version: 1.0.0
 
 # Single-Page App
 spa: false
