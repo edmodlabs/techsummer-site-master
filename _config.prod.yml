@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo
 
 # Site
-title: A-Frame
+title: TechStart
 subtitle: Building Blocks for the VR Web
 description: "Building Blocks for the VR Web"
 author: MozVR
@@ -141,9 +141,9 @@ aframe_lib:
   home_url: https://aframe.io/
   examples_url: https://aframe.io/aframe/examples
 
-slack:
-  aframe:
-    signup_url: https://aframevr-slack.herokuapp.com
+facebook:
+  techstart:
+    support_url: https://www.facebook.com/groups/TechStartSupport
 
 aframe_version: 0.3.0
 
