@@ -4,9 +4,9 @@
 
 # Site
 title: TechStart
-subtitle: Building Blocks for the VR Web
-description: "Building Blocks for the VR Web"
-author: MozVR
+subtitle: Computer Science For Everyone
+description: "Computer Science For Everyone"
+author: TechStart
 email: aframe@mozilla.com
 language:
 robots: all
@@ -129,16 +129,16 @@ fb_app_id: 1535794316743373
 
 github:
   aframe:
-    username: aframevr
-    repo: aframe
-    url: https://github.com/aframevr/aframe/
-  aframe_site:
     username: techstart
     repo: techstart.github.io
-    url: https://techstart.github.io/
+    url: https://github.com/techstart/techstart.github.io
+  aframe_site:
+    username: techstart
+    repo: TechStart-Site
+    url: https://github.com/techstart/TechStart-Site
 
 aframe_lib:
-  home_url: https://aframe.io/
+  home_url: https://techstart.github.io
   examples_url: https://aframe.io/aframe/examples
 
 facebook:
