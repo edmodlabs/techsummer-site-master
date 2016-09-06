@@ -7,8 +7,8 @@ To deploy this to production (GitHub Pages):
     npm run deploy
 
 This will push the site files to
-[aframevr/aframevr.github.io](https://github.com/aframevr/aframevr.github.io).
-It will soon be **[live](https://aframe.io/)**!
+[techstart/techstart.github.io](https://techstart.github.io).
+
 
 ## Credits
 
