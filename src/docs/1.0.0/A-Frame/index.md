@@ -1,6 +1,6 @@
 ---
 title: Introduction
-section_title: Primitives
+section_title: A-Frame
 type: primitives
 layout: docs
 parent_section: docs
@@ -46,3 +46,5 @@ Primitives work with animations also. To create a cube that spins endlessly, we 
 ```
 
 Adding components directly to primitives to extend their behavior is currently not supported, however, and will lead to unpredictable results.
+
+

@@ -53,4 +53,8 @@ Our A-Frame scene is ready to start adding objects to! Let's start with a simple
 </html>
 ```
 
+<p data-height="265" data-theme-id="0" data-slug-hash="BjygdO" data-default-tab="html" data-user="mozvr" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/mozvr/pen/BjygdO/">Hello World — A-Frame</a> by mozvr (<a href="http://codepen.io/mozvr">@mozvr</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 When we open our scene in the browser, we can see the cube!
+
