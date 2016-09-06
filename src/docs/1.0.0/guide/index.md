@@ -1,6 +1,6 @@
 ---
-title: Build with Basic HTML
-section_title: Guides
+title: Installing the Oculus Store
+section_title: Experience Virtual Reality
 type: guides
 layout: docs
 parent_section: docs

@@ -145,6 +145,10 @@ facebook:
   techstart:
     support_url: https://www.facebook.com/groups/TechStartSupport
 
+piazza:
+  techstart:
+    support_url: https://piazza.com/facebook_techstart/fall2016/ts101/home
+
 aframe_version: 1.0.0
 
 # Single-Page App
