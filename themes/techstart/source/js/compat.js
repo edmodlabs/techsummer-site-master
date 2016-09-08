@@ -48,11 +48,12 @@ html.setAttribute('data-is-mobile', settings.isMobile);
 html.setAttribute('data-is-android', settings.isAndroid);
 html.setAttribute('data-is-ios', settings.isIOS);
 
-if (settings.isMobile && settings.isHome) {
-  // TODO: Make responsive home.
-  window.location.pathname = '/examples/';
-  return;
-}
+//THIS IS WHERE MOBILE ROOT IS SET
+// if (settings.isMobile && settings.isHome) {
+//   // TODO: Make responsive home.
+//   window.location.pathname = '/examples/';
+//   return;
+// }
 
 // Add an attribute so we can disable certain :hover styles on touch.
 // NOTE: Not using `dataset` for IE compatibility.

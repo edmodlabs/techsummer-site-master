@@ -13,8 +13,8 @@ This will push the site files to
 ## Credits
 
 Source adopted from the awesome [@vuejs](https://github.com/vuejs/)
-[site](https://github.com/vuejs/vuejs.org/) and [@aframe](https://github.com/aframevr/)
-[site](https://github.com/aframevr/aframe-site).
+[@aframe](https://github.com/aframevr/)
+[site](https://github.com/aframevr/aframe-site) and [site](https://github.com/vuejs/vuejs.org/).
 
 ## License
 
