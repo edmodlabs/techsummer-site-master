@@ -36,7 +36,7 @@
     "bumpdocs": "rm -rf .multidep/aframe-v0.3.0 && npm install aframevr/aframe#master && multidep multidep.json",
     "checklinks": "node bin/checkLinks",
     "clean": "hexo clean",
-    "deploy": "hexo deploy && open 'https://aframe.io/'",
+    "deploy": "hexo deploy && open 'https://techstart.github.io/'",
     "dev": "npm run clean && npm run generate:config && npm run server",
     "generate": "npm run generate:config && hexo generate",
     "generate:config": "yaml-cat '_config.prod.yml' '_config.local.yml' -n -m > _config.yml",
