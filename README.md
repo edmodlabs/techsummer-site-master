@@ -12,10 +12,8 @@ This will push the site files to
 
 ## Credits
 
-Source adopted from the awesome [@vuejs](https://github.com/vuejs/)
-[@aframe](https://github.com/aframevr/)
-[site](https://github.com/aframevr/aframe-site) and [site](https://github.com/vuejs/vuejs.org/).
-
+Website source code adopted from the incredible [@aframe](https://aframe.io) [site](https://github.com/aframevr/aframe-site)
+ and [@vuejs](https://vuejs.org) [site](https://github.com/vuejs/vuejs.org/).
 ## License
 
 Licensed under [The MIT License](LICENSE).
