@@ -130,8 +130,8 @@ fb_app_id: 1535794316743373
 github:
   aframe:
     username: techstart
-    repo: techstart.github.io
-    url: https://github.com/techstart/techstart.github.io
+    repo: TechStart-Site
+    url: https://github.com/techstart/TechStart-Site
   aframe_site:
     username: techstart
     repo: TechStart-Site

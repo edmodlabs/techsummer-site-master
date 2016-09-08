@@ -7,9 +7,9 @@
 
   <div class="list">
 
-      <!-- Version dropdown. -->
-      <label class="subnav-label" for="docs-version"><b>Version</b></label>
-      <select id="docs-version" onchange="location = this.options[this.selectedIndex].getAttribute('data-href')">
+      <!-- Version dropdown. (remove display:none) -->
+      <label class="subnav-label" style = "display:none" for="docs-version"><b>Version</b></label>
+      <select id="docs-version" style = "display:none" onchange="location = this.options[this.selectedIndex].getAttribute('data-href')">
         <% docs_versions(config.aframe_version).map(function (version) { %>
           <option <%- activeVersion === version && 'selected' %>
                   data-href="<%- docs_root_path(site.pages, version) %>">
@@ -56,7 +56,7 @@
       </a>
     </p>
     <% if (activeVersion === 'master') { %>
-      <%- markdown("> **Note:** The `master` version of the documentation tracks unstable development happening on [A-Frame's master branch](https://github.com/aframevr/aframe).") %>
+      <%- markdown("> **Note:** The `master` version of the documentation tracks unstable development happening.") %>
     <% } else if (activeVersion !== config.aframe_version) { %>
       <%- markdown("> **Note:** This documentation is for the old " + activeVersion + " version of A-Frame. Check out the [current " + config.aframe_version + " version](" + docs_root_path(site.pages, config.aframe_version) + ") of the documentation.") %>
     <% } %>
