@@ -4,10 +4,9 @@
 
 To deploy this to production (GitHub Pages):
 
-    npm run deploy
+    npm start
 
-This will push the site files to
-[techstart/techstart.github.io](https://techstart.github.io).
+This will run deploy the site to Node.
 
 
 ## Credits

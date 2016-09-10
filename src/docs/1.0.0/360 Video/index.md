@@ -13,10 +13,12 @@ A 360 video is created with a camera system that simultaneously records all 360 
 # Example Videos
 Explore the high quality content of the Facebook360 group https://www.facebook.com/Facebook360/
 
-Download  Oculus Video from the Oculus Store.
+Download  [Oculus Video](https://www.oculus.com/experiences/rift/926562347437041/)  from the Oculus Store.
 Explore the “Facebook” tab of the Oculus Video  application and enjoy 360 video in virtual reality.
 
 # Best Practices
-Review the facebook best practices for 360 film creation https://www.facebook.com/facebookmedia/best-practices/facebook360
+Review the facebook best practices for 360 film creation: 
+https://www.facebook.com/facebookmedia/best-practices/facebook360
 
+Do's and Don'ts of 360 Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWYKrePZwkM" frameborder="0" allowfullscreen></iframe>
