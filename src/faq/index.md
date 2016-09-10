@@ -8,26 +8,18 @@ toc: true
 ## What age range is appropriate for the VR Kit?
 The VR headset is not for use by children under age 13 according to the official health and safety warning. 
 
-What it is we get in terms of equipment and training, what the cost is (completely free?)?
+## What Hardware is included in the Virtual Reality Kit?
 The VR Kit includes the following items:
-·      1x Oculus Ready PC Tower that meets the Oculus minimum specs and approved by Oculus IT
-·      Mouse and Keyboard
-·      1x Oculus Rift CV1
-·      1x 24” Monitor
-·      1x Ricoh Theta S 360 Camera
-·      1x Camera Stand
-·      1x Laminated getting started guide
+* 1x Oculus Ready PC Tower that meets the Oculus minimum specs and approved by Oculus IT
+* Mouse and Keyboard
+* 1x Oculus Rift CV1
+* 1x 24” Monitor
+* 1x Ricoh Theta S 360 Camera
+* 1x Camera Stand
+* 1x Laminated getting started guide
 
-Training will be provided through an open-sourced online manual. The equipment and training is free. 
-
-## What is in it for our students?
-Students get to consume and create content in the next cutting edge format, Virtual Reality. We aim to inspire the next generation to be more involved in computer science and encourage .
-
-## What is in it for Facebook?
-We aim to inspire the next generation to be involved, fluent, and excited about computer science. Investing in the future helps everyone.
- 
 ## How will the equipment be used? 
-We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the vr kit into their classrooms.
+We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the VR kit into their classrooms.
  
 ## How could we evaluate its use?
 It is important to us that teachers themselves to evaluate how successful the VR Kit is for their classrooms
