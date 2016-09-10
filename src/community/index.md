@@ -9,6 +9,18 @@ layout: page
 * [TechStart VR Group](https://www.facebook.com/groups/TechStartSupport) Ask questions, post feedback, provide suggestions for other instructors, and socialize! 
 * [TechStart VR Manual Github](https://github.com/techstart/TechStart-Site) - Grab the code, file issues, and contribute.
 
+## Oculus 
+
+* [Oculus Blog](https://www.oculus.com/blog)
+* [Oculus Rift Software](https://www3.oculus.com/en-us/setup/)
+* [Oculus Store Web Applicaiton](https://www.oculus.com/experiences/rift/)
+
+## Virtual Reality
+
+* [Upload VR Blog](http://uploadvr.com/)
+* [Road to VR Blog](http://www.roadtovr.com/)
+* [Virtual Reality Subreddit](https://www.reddit.com/r/virtualreality/)
+
 ## 360 Video
 
 * [Facebook 360 Group](https://www.facebook.com/groups/facebook360community/) - High quality 360 videos
