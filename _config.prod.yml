@@ -4,8 +4,8 @@
 
 # Site
 title: TechStart
-subtitle: Computer Science For Everyone
-description: "Computer Science For Everyone"
+subtitle: Creating opportunities through Computer Sciencee
+description: "Creating opportunities through Computer Science"
 author: TechStart
 email: aframe@mozilla.com
 language:
@@ -124,7 +124,7 @@ disqus_shortname:
 twitter:
   username: aframevr
   url: https://twitter.com/aframevr/
-google_analytics: UA-24056643-4
+google_analytics: UA-84499800-1
 fb_app_id: 1535794316743373
 
 github:

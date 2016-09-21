@@ -28,3 +28,9 @@ Here is a basic A-Frame scene from Mozilla hosted on Codepen:
 
 <p data-height="700" data-theme-id="0" data-slug-hash="BjygdO" data-default-tab="html,result" data-user="mozvr" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="https://codepen.io/mozvr/pen/BjygdO/">Hello World — A-Frame</a> by mozvr (<a href="http://codepen.io/mozvr">@mozvr</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+## Official Documentation
+
+https://aframe.io/docs/0.3.0/introduction/
+
+The official documentation and introductory materials for A-frame from the creators, Mozilla.
