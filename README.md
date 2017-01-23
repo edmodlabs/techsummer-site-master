@@ -8,6 +8,7 @@ To deploy this to production (GitHub Pages):
 
 This will run deploy the site to Node.
 
+    npm run deploy
 
 ## Credits
 
