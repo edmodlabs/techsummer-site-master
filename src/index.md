@@ -10,6 +10,7 @@ TechStart is shipping a VR Kit to participating classrooms that will inspire par
 
 We provide the hardware and basic educational materials so that classrooms can integrate virtual reality as they see fit into their classrooms.
 
+* [Getting Started Materials](https://drive.google.com/drive/folders/0B7LB2xrcJuqQVjU5TGZJYkI4eDA?usp=sharing) - Materials to get started witht the VR kit. Look over these materials first.
 * [Docs](/docs) - Documentation to install the VR Kit introductions to content creation.
 * [Community](/community) - Links to helpful resources from around the web
 * [FAQ](/faq) - Frequently asked questions
