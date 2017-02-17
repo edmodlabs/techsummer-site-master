@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-Vizor Project One: Building A World
+Building A World
 
 ## Project Prompt & Goals
 Get ready to jump into the world of virtual reality development! By the end of the project, you will:
@@ -44,8 +44,6 @@ Computer graphics is also the basis of building virtual reality experiences! Her
 <img src="/images/docs/intro_vizor/vizor_sample.png">
 
 <img src="/images/docs/intro_vizor/vizor_sample1.jpg">
-
-Credit - Vizor
 
 ## Vizor Basics
 
@@ -142,8 +140,6 @@ You're all set to start building your first virtual world. Add objects to your s
 
 ## Share With The World
 
-Before proceeding, please complete the following 3-minute survey: [https://www.surveymonkey.com/r/R6BXT2G].
-
 One of the coolest parts about Vizor is the ability to share what you build with the world. If you want, you can let anyone with a VR headset see what you've built. 
 
 
@@ -165,5 +161,6 @@ Although you can use Vizor on any computer, you'll need a VR-ready computer or p
 
 Once you have WebVR and your virtual reality headset ready, open Firefox Nightly on your VR-ready computer and enter the URL of your published project. If you click near the bottom of the screen, you'll see an icon which looks like binoculars. On the internet, the icon is often used to start a virtual reality experience. Click the icon and put the headset on to see what you made in virtual reality!
 
+After you've viewed your project in virtual reality, please complete the following 3-minute survey: [https://www.surveymonkey.com/r/R6BXT2G].
 
 
