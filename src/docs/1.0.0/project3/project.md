@@ -11,7 +11,7 @@ toc: true
 
 #Building A World
 
-## Project Prompt & Goals
+## Project Goals
 Get ready to jump into the world of virtual reality development! By the end of the project, you will:
 * Get a first taste of how computer graphics can be applied to creative projects.
 * Use a creative platform named Vizor to build a virtual world you can share with anyone using a VR headset.
