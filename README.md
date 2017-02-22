@@ -12,19 +12,19 @@ This will run deploy the site to Node.
 
 ## File Structure
 
-**/src 
+### /src 
 All content pages live here
 
-**/src/docs 
+### /src/docs 
 All of the versioned content for projects live here
 
-**themes
+### /themes
 where partial templates live
 
-**themes/techstart/layout/partials/examples/sidebar_header.ejs
+### /themes/techstart/layout/partials/examples/sidebar_header.ejs
 where our sidebar partial template lives
 
-**themes/techstart/layout/partials/ga.ejs
+### /themes/techstart/layout/partials/ga.ejs
 analytics javascript
 
 ## Credits
