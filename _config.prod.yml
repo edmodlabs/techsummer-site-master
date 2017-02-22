@@ -19,7 +19,7 @@ theme_color: black
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://techstart-dev.github.io
+url: https://techstart.github.io
 root: /
 permalink: blog/:title/
 tag_dir: tags
@@ -126,6 +126,7 @@ twitter:
   url: https://twitter.com/aframevr/
 google_analytics: UA-84499800-1
 fb_app_id: 1535794316743373
+segment_analytics: O0Trhcd2h1sVKasfJHP5JHVRZUJ8Nwev
 
 github:
   aframe:
@@ -138,8 +139,8 @@ github:
     url: https://github.com/techstart/TechStart-Site
 
 aframe_lib:
-  home_url: https://techstart-dev.github.io
-  examples_url: https://techstart-dev.github.io
+  home_url: https://techstart.github.io
+  examples_url: https://techstart.github.io
 
 facebook:
   techstart:

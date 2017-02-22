@@ -1,7 +1,7 @@
 ---
 title: Vizor Project 1
 section_title: Introduction to Vizor
-type: primitives
+type: unit3
 layout: docs
 parent_section: project3
 order: 2
@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-#Building A World
+# Building A World
 
 ## Project Goals
 Get ready to jump into the world of virtual reality development! By the end of the project, you will:

@@ -1,7 +1,7 @@
 ---
 title: Setup
 section_title: Introduction to Vizor
-type:  primitives
+type:  unit3
 layout: docs
 parent_section: docs
 order: 1
