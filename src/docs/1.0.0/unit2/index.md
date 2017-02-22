@@ -1,10 +1,10 @@
 ---
-title: 360 Video
-section_title: Unit 2
-type: unit2:360
+title: Setup
+section_title: Introduction to 360
+type: unit2
 layout: docs
 parent_section: docs
-order: 2
+order: 1
 section_order: 2
 ---
 
