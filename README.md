@@ -2,12 +2,12 @@
 
 ## Deployment
 
-To deploy this to production (GitHub Pages):
+This will run deploy the site to local node server (localhost:4000):
 
     npm start
 
-This will run deploy the site to Node.
-
+To deploy this to production, THIS WILL MAKE LIVE CHANGES (techstart.github.io):
+    
     npm run deploy
 
 ## File Structure
