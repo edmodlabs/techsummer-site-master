@@ -12,10 +12,10 @@ toc: true
 # Building A World
 
 ## Project Goals
-Get ready to jump into the world of virtual reality development! By the end of the project, you will:
+Get ready to jump into the world of virtual reality (VR) development! By the end of the project, you will:
 * Get a first taste of how computer graphics can be used to create any world you can imagine.
 * Use a platform named Vizor to build a virtual world you can share with anyone.
-* Learn tips on how to design virtual worlds from engineers at Facebook.
+* See hands-on examples of how to design virtual worlds from engineers at Facebook.
 
 Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor. You can click and drag to change your view!
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/edelblut/mountain_top_wip_02" ></script>
@@ -24,7 +24,7 @@ Want an idea of what you'll be able to build? Check out the following project bu
 
 * The Virtual Reality Starter Project is designed to be completed by individual students, not teams.
 * Similar to many computer graphics platforms, Vizor is most easily used with a mouse.
-* Vizor projects are most exciting in virtual reality! To use virtual reality with Vizor, you'll need one computer setup with WebVR.
+* Vizor projects are most exciting in VR! To use VR with Vizor, you'll need one computer set up with WebVR.
 
 ## Computer Graphics and VR 
 
@@ -43,11 +43,7 @@ You can create movies, video games, and more using computer programs such as Ado
 <img src="/images/docs/intro_vizor/unity.gif">
 
 
-Computer graphics is also the basis of building virtual reality experiences! Here are some virtual worlds built using the vizor.io platform. You'll know how to build a similar world by the end of the lesson.
-
-<img src="/images/docs/intro_vizor/vizor_sample.png">
-
-<img src="/images/docs/intro_vizor/vizor_sample1.jpg">
+Computer graphics is also the basis of building virtual reality experiences!
 
 ## Vizor Basics
 
