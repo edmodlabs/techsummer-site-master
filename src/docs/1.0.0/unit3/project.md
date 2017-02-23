@@ -32,14 +32,13 @@ Computer graphics, also known as CG, is an area of computer science which uses c
 
 With a knowledge of computer graphics...
 
-You can use an image editing program like PhotoShop!
-
+* you can use an image editing program like PhotoShop!
 <img src="/images/docs/intro_vizor/photoshop.gif">
 
-You can build 3-dimensional (3D) models and animations using a program like Blender!
+* you can build 3-dimensional (3D) models and animations using a program like Blender!
 <img src="/images/docs/intro_vizor/blender.gif">
 
-You can create movies, video games, and more using computer programs such as Adobe Final Cut, Unity or Unreal, and more!
+* you can create movies, video games, and more using computer programs such as Adobe Final Cut, Unity or Unreal, and more!
 <img src="/images/docs/intro_vizor/unity.gif">
 
 
