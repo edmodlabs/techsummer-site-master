@@ -12,7 +12,7 @@ toc: true
 # Building A World
 
 ## Project Goals
-Get ready to jump into the world of virtual reality (VR) development! By the end of the project, you will:
+Get ready to jump into the world of virtual reality (VR) development! We will not focus on code until later lessons, but the project will introduce you to VR design. By the end of the project, you will:
 * Get a first taste of how computer graphics can be used to create any world you can imagine.
 * Use a platform named Vizor to build a virtual world you can share with anyone.
 * See hands-on examples of how to design virtual worlds from engineers at Facebook.
