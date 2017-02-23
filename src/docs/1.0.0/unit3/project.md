@@ -28,7 +28,7 @@ Want an idea of what you'll be able to build? Check out the following project bu
 
 ## Computer Graphics and VR 
 
-Computer graphics, also known as CG, is an area of computer science which uses computers to create pictures, models, films, and more. Computer graphics emerged in the United States in the 1950's and since then has been used for many applications.
+Computer graphics, also known as CG, is a field of computer science which uses computers to create pictures, models, films, and more. CG emerged in the United States in the 1950's and since then has been used for many applications.
 
 With a knowledge of computer graphics you can...
 
@@ -43,7 +43,6 @@ With a knowledge of computer graphics you can...
 * create movies, video games, and more using computer programs such as Adobe Final Cut, Unity or Unreal, and more!
 
 <img src="/images/docs/intro_vizor/unity.gif">
-
 
 Computer graphics is also the basis of building virtual reality experiences!
 
