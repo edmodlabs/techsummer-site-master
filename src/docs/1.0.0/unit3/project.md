@@ -60,13 +60,13 @@ You'll first need to create a Vizor account.
 <img src="/images/docs/intro_vizor/create_account2.png">
 
 ### Vizor Editor Guide: Cameras
-Many computer graphics programs use multiple cameras. Most often, there will be a “world camera” you can use while you are creating and building your application. You can move the world camera wherever you want to make your work easier. In Vizor, the world camera is called “Editor camera” and you can switch into Editor camera mode by clicking the Editor camera button in the editor.
+Many computer graphics programs use multiple cameras. Most often, there will be a “world camera” you use to create and build your application. You can move the world camera wherever you want at any time. In Vizor, the world camera is called “Editor camera” and you can switch into Editor camera mode by clicking the Editor camera button in the editor.
 
 <img src="/images/docs/intro_vizor/edit_cam.png">
 
 When you open the Vizor editor, you should be using the Editor camera by default.
 
-A world camera is great to use while working, but what will a user's point of view be? In addition to a world camera many computer graphics programs have a second camera to represent a user's view. The camera is named differently in different programs, but in Vizor the camera is called the “VR camera.” The VR camera represents where a user's view will be when they start your virtual reality experience. 
+A world camera is great to use while building, but what will your user's point of view be? Many computer graphics programs also have a second camera to represent your user's view. The camera is named differently in different programs, but in Vizor the camera is called the “VR camera.” The VR camera represents where your user's view will be when they start. 
 
 The position of the VR camera in Vizor is denoted by the model of a head wearing a VR headset in the editor. 
 
@@ -75,6 +75,8 @@ The position of the VR camera in Vizor is denoted by the model of a head wearing
 You can test the VR camera point of view by selecting the VR camera button in the editor. While in VR camera mode, you can click and drag to test what it would be like for a user to look around your scene.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EiVuDRYkvpA" frameborder="0" allowfullscreen></iframe>
+
+At any time, you can toggle between the Editor camera and VR camera by pressing "V".
 
 ### Vizor Editor Guide: Navigation
 Let's learn how to navigate in the editor. Be sure to switch into Editor camera mode.
