@@ -20,9 +20,11 @@ Get ready to jump into the world of virtual reality development! By the end of t
 Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor. You can click and drag to change your view!
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/edelblut/mountain_top_wip_02" ></script>
 
-## Requirements
+## Requirements and Suggestions
 
 * The Virtual Reality Starter Project is designed to be completed by individual students, not teams.
+* Similar to many computer graphics platforms, Vizor is most easily used with a mouse.
+* Vizor projects are most exciting in virtual reality! To use virtual reality with Vizor, you'll need one computer setup with WebVR.
 
 ## Computer Graphics and VR 
 
