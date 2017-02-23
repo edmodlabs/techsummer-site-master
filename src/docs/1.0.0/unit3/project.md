@@ -202,4 +202,4 @@ We can change the position of the VR camera to change the user's experience. In 
 
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_user_placement_you_are_experiment" ></script>
 
-### Using pro tips from Facebook, how can you make a better virtual world? Have you discovered pro tips of your own? Make some plans, try them in Vizor, and be sure to publish any projects you make!
+### Using the pro tips, how can you make a better virtual world? Have you discovered pro tips of your own? Make some plans, try them in Vizor, and be sure to publish any projects you make!
