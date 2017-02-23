@@ -16,7 +16,8 @@ Get ready to jump into the world of virtual reality development! By the end of t
 * Get a first taste of how computer graphics can be applied to creative projects.
 * Use a creative platform named Vizor to build a virtual world you can share with anyone using a VR headset.
 * Learn the basics of designing a virtual world.
-
+Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor.
+<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/edelblut/mountain_top_wip_02" ></script>
 
 ## Requirements
 
