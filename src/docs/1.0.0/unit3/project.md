@@ -159,4 +159,4 @@ Although you can use Vizor on any computer, you'll need a computer or phone with
 
 Once you have WebVR and your virtual reality headset ready, open Firefox Nightly on your computer and enter the URL of your published project. If you click near the bottom of the screen, you'll see an icon which looks like binoculars. On the internet, that icon is used to start a VR experience. Click the icon and put the headset on to see what you made in virtual reality!
 
-After you've viewed your project in virtual reality, please complete a <a href="https://www.surveymonkey.com/r/6JF7XLL" target="_blank">3-Minute Survey</a>.
+### After you've viewed your project in virtual reality, please complete a <a href="https://www.surveymonkey.com/r/6JF7XLL" target="_blank">3-Minute Survey</a>.
