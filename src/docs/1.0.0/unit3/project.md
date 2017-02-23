@@ -1,5 +1,5 @@
 ---
-title: Vizor Project 1
+title: Vizor Starter Project
 section_title: Introduction to Vizor
 type: unit3
 layout: docs
