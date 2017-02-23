@@ -15,9 +15,9 @@ toc: true
 Get ready to jump into the world of virtual reality development! By the end of the project, you will:
 * Get a first taste of how computer graphics can be used to create any world you can imagine.
 * Use a platform named Vizor to build a virtual world you can share with anyone.
-* Learn tips to design virtual worlds from engineers at Facebook!
+* Learn tips on how to design virtual worlds from engineers at Facebook.
 
-Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor.
+Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor. You can click and drag to change your view!
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/edelblut/mountain_top_wip_02" ></script>
 
 ## Requirements
