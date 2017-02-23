@@ -27,7 +27,7 @@ where our sidebar partial template lives
 ### /themes/techstart/layout/partials/ga.ejs
 analytics javascript
 
-### /images/***/***
+### /src/images/***/***
 Where our images live
 
 to reference an image, such as **/images/docs/intro_vizor/blender.gif** 
