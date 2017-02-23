@@ -38,7 +38,7 @@ With a knowledge of computer graphics you can...
 
 * build 3-dimensional (3D) models and animations using a program like Blender!
 
-<img src="/images/docs/intro_vizor/blender.gif">
+<div style="text-align:center"><img src="/images/docs/intro_vizor/blender.gif"></div>
 
 * create movies, video games, and more using computer programs such as Adobe Final Cut, Unity or Unreal, and more!
 
