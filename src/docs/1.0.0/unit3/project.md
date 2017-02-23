@@ -161,9 +161,9 @@ Once you have WebVR and your virtual reality headset ready, open Firefox Nightly
 
 ### After you've completed all steps above and your project is listed at **vizor.io/(your username)**, please complete a <a href="https://www.surveymonkey.com/r/6JF7XLL" target="_blank">3-Minute Survey</a>.
 
-## Extensions
+## Pro Tips
 
-So, you think you're a pro? Not so fast! The VR space is rapidly developing and people are learning more about how to design VR experiences every day. Check out the following sections for tips from Facebook engineers on how you can build awesome virtual worlds. Every section has Vizor examples you can view on your computer or in virtual reality for a more hands-on experience.
+So, you think you're a pro? Not so fast! The VR space is rapidly developing and people are learning more about how to design VR experiences every day. Even engineers at Facebook are always learning and practicing to be better. The following sections show you what our engineers have learned that you can use in your project. Every section has Vizor examples you can view on your computer or in virtual reality for a more hands-on experience.
 
 ### Use Sizes Wisely
 The size of objects in virtual reality is very important. If you want to build a realistic experience, you should make sure that objects have believable sizes. However, realistic experiences are not always best. You can change the sizes of objects to make a creative statement, change the meaning of your scene, add goofiness, and more.
