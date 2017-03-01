@@ -37,6 +37,9 @@ add
 ```
 to your markdown page
 
+## Adding Notices
+https://www.w3schools.com/bootstrap/bootstrap_alerts.asp
+
 ## Credits
 
 Website source code adopted from the incredible [@aframe](https://aframe.io) [site](https://github.com/aframevr/aframe-site)
