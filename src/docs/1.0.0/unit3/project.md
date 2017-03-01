@@ -11,6 +11,21 @@ toc: true
 
 # Building A World
 
+<br/>
+<div class="alert alert-success">
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+
+<div class="alert alert-info">
+  <strong>Info!</strong> Indicates a neutral informative change or action.
+</div>
+<div class="alert alert-warning">
+  <strong>Warning!</strong> Indicates a warning that might need attention.
+</div>
+<div class="alert alert-danger">
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
+
 ## Project Goals
 Get ready to jump into the world of virtual reality (VR) development! We will not focus on code until later projects, but the project will introduce you to VR design. By the end of the project, you will:
 * Get a first taste of how computer graphics can be used to create any world you can imagine.
@@ -170,11 +185,11 @@ The size of objects in virtual reality is very important. If you want to build a
 
 In the following scene, a scientist and meditating person landed on a floating island. Soon, they'll use the rocket to blast off to their next destination.
 
-<script src="/scripts/embed.js" data-vizorurl="http://vizor.io/embed/techstart/vizor_lesson_scale_escape" ></script>
+<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_escape" ></script>
 
 In the next scene, we've changed the size of the scientist and rocket objects. Same objects, different sizes, different meaning. What do you think could be a story for the scene?
 
-<script src="/scripts/embed.js" data-vizorurl="http://vizor.io/embed/techstart/vizor_lesson_scale_toys" ></script>
+<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_toys" ></script>
 
 ### Place Objects for Comfortable Viewing
 
@@ -182,7 +197,7 @@ Unlike a game or movie, your user in virtual reality actually needs to look arou
 
 One concept is to make important objects close, and less important objects far away. Check out the following tree in a desert. We're not sure why there's a tree in a desert either, but we do know that since the tree is closer you're more likely to pay attention to the tree than the rocks in the distance.
 
-<script src="/scripts/embed.js" data-vizorurl="http://vizor.io/embed/techstart/vizor_lesson_placement_lone_close_tree" ></script>
+<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_lone_close_tree" ></script>
 
 Also look at the following project.
 
