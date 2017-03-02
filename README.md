@@ -38,6 +38,7 @@ add
 to your markdown page
 
 ## Adding Notices
+```
 <br/>
 <div class="alert_red">
   <strong>Info!</strong> Indicates a neutral informative change or action.
@@ -57,7 +58,7 @@ to your markdown page
 <div class="alert_yellow">
   <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
 </div>
-
+```
 ## Credits
 
 Website source code adopted from the incredible [@aframe](https://aframe.io) [site](https://github.com/aframevr/aframe-site)
