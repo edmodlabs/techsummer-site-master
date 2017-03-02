@@ -38,7 +38,25 @@ add
 to your markdown page
 
 ## Adding Notices
-https://www.w3schools.com/bootstrap/bootstrap_alerts.asp
+<br/>
+<div class="alert_red">
+  <strong>Info!</strong> Indicates a neutral informative change or action.
+</div>
+
+<br/>
+<div class="alert_blue">
+  <strong>Warning!</strong> Indicates a warning that might need attention.
+</div>
+
+<br/>
+<div class="alert_green">
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
+
+<br/>
+<div class="alert_yellow">
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
 
 ## Credits
 
