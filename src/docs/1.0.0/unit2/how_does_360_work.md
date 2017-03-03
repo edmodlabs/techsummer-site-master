@@ -1,40 +1,47 @@
 ---
-title: How a 360 Camera Works
-section_title: How a 360 Camera Works
+title: Sharing 360 Images
+section_title: Sharing 360 Images
 type: unit2
 layout: docs
 parent_section: unit2
 order: 5
 ---
 
+To share any of your images, click the 'Share' button in Vizor.  This will create a URL you can send to others. Send the link to a friend and they can open up the link from a smartphone or another computer browser to see your image!
 
-## The Magic 360 Sauce 
+If your school has access to Facebook and you have your teacher's permission, you can also post the images. Facebook will automatically detect your image as a 360-degree image and do the rest of the magic. You can post the images directly to your wall, or to a friend's page.
 
-How does the camera magically covert a two-dimensional (2D) image into one that looks seemingly three-dimensional (3D)?  All digital cameras use a camera *lens *and a digital *sensor *to collect light rays from the world.  Your eyeballs for example are really good wide-angle lenses, which can capture up to 130-degrees of the world at once.*  *
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Try It Yourself </strong>
+  </div>
+  If you are completing the project as a TechStart Innovator at your school and you have teacher permission, post a 360-image of your classroom to the [Techstart Student Facebook group](https://www.facebook.com/groups/ts.students.arkansas/)
+</div>
 
-<img src="/images/docs/360_images/FOV.png">
+## Conclusion
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>A Note to TechStart Innovators </strong>
+  </div>
+  You are required to submit one 360 image to TechStart. Use the following steps. 
+  <ul> 
+  	<li>Capture a 360 image of your classroom. </li>
+  	<li>Drag and drop the image into the Vizor [360 image viewer](http://360.vizor.io/). </li>
+  	<li>Click "Share" and save the URL. You will need to provide the URL to Vizor later. </li>
+  </ul>
+</div> 
 
-Your Ricoh Theta camera uses two 180-degree lenses and combines them to create one 360-degree image.  This process is called *stitching* the image, much like you might stitch multiple pieces of cloth together to create one single piece of clothing.  The two separate lens images will look like this:
+Congratulations! You've completed your first 360 project. Now's a great time to review what you learned:
 
-<img src="/images/docs/360_images/theta_example_frame.png">
+* How to operate a 360 camera.
+* The importance of scale in 360 images and virtual reality.
+* How to view and share your images.
 
+Stay tuned for more projects from TechStart. Next up, we plan to create projects that use 360 video and add graphics to 360 images.
 
-The two lenses on the camera always stay in the same place relative to each other, so the camera stitches the two images together and deletes the duplicate information so it looks like this: 
-
-<img src="/images/docs/360_images/theta_example_stitched_frame.png">
-
-But wait, the image looks wavelike and all distorted, not all like an image from other digital cameras or your smartphone.  That's because it's still a 2D image trying its hardest to be a 3D one.  You may have seen this in dozens of classrooms before, usually flat and hung on a wall in the form of a world map!  But how can something flat actually represent the earth, which is the shape of a sphere?  This is called a *projection map*, and you can think about your 360-degree images the same way.  
-
-<img src="/images/docs/360_images/Equirectangular_projection_SW.jpg">
-
-
-Although you can view 360-degree images as flat, they look distorted like a world map.  Remember what your Geography teacher taught you about Canada and Greenland looking way bigger on the flat map than they actually are in real life?  This is because we are doing crazy earth origami, turning a flat piece of paper into a more complicated 3D shape.
-
-<img src="/images/docs/360_images/Dymaxion_2003_animation_small1.gif">
-
-
-Here's the previously flat 360-degree image, now projected mapped around a full sphere object:
-
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/codexter/360-lesson" ></script>
-
-Looks totally different, right?  Welcome to the world of 360-degree photography! No more worrying about what correct Instagram angle to capture, just collect a whole scene with one click of the Ricoh Theta and then let the viewer decide where to look!  
+<div class="alert_yellow">
+  <div style="text-align:center">
+  	<strong>Extensions</strong> 
+  </div>
+  Want to learn more about 360 images? Continue to the next section for a deeper understanding of how 360 images work.
+</div>

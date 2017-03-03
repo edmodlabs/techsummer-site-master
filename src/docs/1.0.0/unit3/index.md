@@ -8,8 +8,7 @@ order: 1
 section_order: 4
 ---
 <hr>
-Read the following page for some important points before you get started.
-
+Welcome to the Introduction to Vizor project! Read the following points before you get started.
 
 ## Project Goals
 Let's jump into the world of VR development! By the end of the project, you will:

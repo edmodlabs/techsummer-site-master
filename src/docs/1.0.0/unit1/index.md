@@ -1,6 +1,6 @@
 ---
 title: Experience Virtual Reality
-section_title: Unit 1
+section_title: Experience VR
 type: unit1
 layout: docs
 parent_section: docs
