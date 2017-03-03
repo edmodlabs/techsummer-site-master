@@ -8,58 +8,54 @@ order: 1
 section_order: 4
 ---
 
-<br/>
-<div class="alert_red">
-  <strong>Info!</strong> Indicates a neutral informative change or action.
-</div>
-
-<br/>
-<div class="alert_blue">
-  <strong>Warning!</strong> Indicates a warning that might need attention.
-</div>
-
-<br/>
-<div class="alert_green">
-  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
-</div>
-
-<br/>
-<div class="alert_yellow">
-  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
-</div>
-
 ## Project Goals
-Get ready to jump into the world of virtual reality (VR) development! We will not focus on code until later projects, but the project will introduce you to VR design. By the end of the project, you will:
-* Get a first taste of how computer graphics can be used to create any world you can imagine.
+Let's jump into the world of VR development! By the end of the project, you will:
+* See how computer graphics and VR can be used to create anything you can imagine.
 * Use a platform named Vizor to build a virtual world you can share with anyone.
-* See hands-on examples of how to design virtual worlds from engineers at Facebook.
+* See hands-on tips on how to design virtual worlds from engineers at Facebook.
 
-Want an idea of what you'll be able to build? Check out the following project built by someone else in Vizor. You can click and drag to change your view!
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/edelblut/mountain_top_wip_02" ></script>
+Here's an example of what you'll build. Hit play, then click and drag to look around.
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/lperez/lucia-s-world-copy" ></script>
+	<strong> "Lucia's World" - An Island World Created by a TechStart California Student
+</div>
 
 ## Requirements and Suggestions
 
-* The Virtual Reality Starter Project is designed to be completed by individual students, not teams.
-* Similar to many computer graphics platforms, Vizor is most easily used with a mouse.
-* Vizor projects are most exciting in VR! To use VR with Vizor, you'll need one computer set up with WebVR.
+* The project is designed to be completed by individual students, not teams.
+* Vizor is most easily used with a mouse.
+* Vizor projects are most exciting in VR! To use VR with Vizor, you'll need a computer with VR installed and WebVR installed.
 
-## Computer Graphics and VR 
+<div class="alert_red" style="text-align:center">
+  <strong>Warning! If your editor ever looks like the below, you have entered Vizor's "Patches" mode and you must hit "Tab" on your keyboard to exit. Patches mode allows you to add programming to your project and will be explained in later projects.</strong>
+  <img src="/images/docs/intro_vizor/patches.png">
+</div>
 
-Computer graphics, also known as CG, is a field of computer science which uses computers to create pictures, models, films, and more. CG emerged in the United States in the 1950's and since then has been used for many applications.
+## Vizor, VR, and Computer Graphics 
 
-With a knowledge of computer graphics you can...
+Vizor and VR use computer graphics, also known as CG. CG is a field of computer science used to create art, models, animations, films, and more. The project will introduce you to some CG basics, which are used in applications beyond VR.
 
-* use an image editing program like PhotoShop!
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/photoshop.gif">
+	<br>
+	<strong> PhotoShop: use CG to bring pictures to life!  </strong>
+</div>
+<br>
 
-<img src="/images/docs/intro_vizor/photoshop.gif">
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/blender.gif">
+	<br>
+	<strong> Blender: create realistic models and physics simulations!  </strong>
+</div>
+<br>
 
-* build 3-dimensional (3D) models and animations using a program like Blender!
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/unity.gif">
+	<br>
+	<strong> Unity: make animations and games!</strong>
+</div>
+<br>
 
-<div style="text-align:center"><img src="/images/docs/intro_vizor/blender.gif"></div>
-
-* create movies, video games, and more using computer programs such as Adobe Final Cut, Unity or Unreal, and more!
-
-<img src="/images/docs/intro_vizor/unity.gif">
-
-Computer graphics is also the basis of building virtual reality experiences!
-
+<div class="alert_green" style="text-align:center">
+  <strong>Continue!</strong> Click the link below to get started!
+</div>

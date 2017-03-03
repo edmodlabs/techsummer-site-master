@@ -10,50 +10,114 @@ toc: true
 
 ## Vizor Basics
 
-Enough talk - let's jump into Vizor and get started!
+In the following section, we'll create a Vizor account and learn editor controls.
 
 ### Creating a Vizor Account
 You'll first need to create a Vizor account.
+<br/>
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Navigate to <a href="https://vizor.io" target="_blank">vizor.io</a> in your web browser and click on the “Sign Up” button. </li>
+  	<li> Fill the information on the “Sign Up” screen and click “Create an Account.” </li>
+  	<li> A new screen will show links to Vizor tutorials, the Vizor Facebook group, and more. Click the “X” button, wait for the scene to load, and you're set! </li>
+  </ul>
+</div>
 
-* Navigate to <a href="https://vizor.io" target="_blank">vizor.io</a> in your web browser and click on the “Sign Up” button.
-* Fill out your information on the “Sign Up” screen and click “Create an Account.” 
-* You should see a new screen with links to Vizor tutorials, the Vizor Facebook group, and more. Click the “X” button, wait for the scene to load, and you'll be in the Vizor editor!
+<br>
 
-<img src="/images/docs/intro_vizor/create_account2.png">
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/create_account2.png">
+	<br>
+	<strong> The default Vizor project. </strong>
+</div>
 
 ### Vizor Editor Guide: Cameras
-Many computer graphics programs use multiple cameras. Most often, there will be a “world camera” you use to create and build your application. You can move the world camera wherever you want at any time. In Vizor, the world camera is called “Editor camera” and you can switch into Editor camera mode by clicking the Editor camera button in the editor.
+Any CG application uses multiple cameras. In Vizor, there are two cameras: the Editor camera and VR camera.
 
-<img src="/images/docs/intro_vizor/edit_cam.png">
+#### Editor Camera
 
-When you open the Vizor editor, you should be using the Editor camera by default.
+In Vizor, the "Editor camera" is used to look around your world while you are building. You can switch into Editor camera mode by clicking the Editor camera button in the editor.
 
-A world camera is great to use while building, but what will your user's point of view be? Many computer graphics programs also have a second camera to represent your user's view. The camera is named differently in different programs, but in Vizor the camera is called the “VR camera.” The VR camera represents where your user's view will be when they start. 
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/edit_cam.png">
+	<br>
+	<strong> The camera buttons are on the bottom right of the Vizor editor. The left button enters Editor camera mode. </strong>
+</div>
 
-The position of the VR camera in Vizor is denoted by the model of a head wearing a VR headset in the editor. 
+<br>
 
-<img src="/images/docs/intro_vizor/navigation0.png">
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Make sure you are in Editor camera mode. </li>
+  </ul>
+</div>
 
-You can test the VR camera point of view by selecting the VR camera button in the editor. While in VR camera mode, you can click and drag to test what it would be like for a user to look around your scene.
+#### Editor Camera: Navigation
+Let's see how to navigate with the Editor camera.
+
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/AgmAzrLSdS4" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Zoom: scroll in and out using the mouse or mouse pad.</strong> 
+</div>
+<br>
+
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/8KJIK2iAR3Y" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Rotation: hold the left mouse button and drag.</strong> 
+</div>
+<br>
+
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/8tT26p_t5So" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Panning: hold the right mouse button down and drag.</strong> 
+</div>
+
+#### VR Camera
+
+The other Vizor camera is called the "VR camera." The VR camera represents your user's view when they start your VR experience. The position of the VR camera is shown by the model of a head wearing a VR headset in the editor. 
+
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/navigation0.png">
+	<br>
+	<strong> The position of the VR camera. </strong>
+</div>
+
+You can switch into VR camera mode by clicking the VR camera button in the editor.
+
+<div style="text-align:center">
+	<img src="/images/docs/intro_vizor/vr_cam.png">
+	<br>
+	<strong> The camera buttons are on the bottom right of the Vizor editor. The right button enters VR camera mode. </strong>
+</div>
+
+<br>
+
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Make sure you are in VR camera mode. </li>
+  </ul>
+</div>
+
+#### Editor Camera: Navigation
+While in VR camera mode, you can click and drag to test what it would be like to look around your scene.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EiVuDRYkvpA" frameborder="0" allowfullscreen></iframe>
 
 At any time, you can toggle between the Editor camera and VR camera by pressing "V".
 
-### Vizor Editor Guide: Navigation
-Let's learn how to navigate in the editor. Be sure to switch into Editor camera mode.
-
-* Zooming: scroll in and out using mouse or mouse pad.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AgmAzrLSdS4" frameborder="0" allowfullscreen></iframe>
-
-* Rotating Your View: click the left mouse button down and drag.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8KJIK2iAR3Y" frameborder="0" allowfullscreen></iframe>
-
-* Panning: click the right mouse button down and drag. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tT26p_t5So" frameborder="0" allowfullscreen></iframe>
-
-Play around with navigation in the Vizor editor until you feel comfortable, then move on to the next section!
-
+<br/>
+<div class="alert_green" style="text-align:center">
+  <strong>Continue!</strong> Advance to the next section and let's start building a world!
+</div>

@@ -8,52 +8,97 @@ order: 3
 toc: true
 ---
 
-### Hello Virtual Reality!
-
-You've learned about the basics of cameras in computer graphics and Vizor navigation. There's tons more that you could learn about computer graphics and Vizor, but for now let's focus on designing a virtual world. Let's get building!
-
-#### Fun With Objects
+### The Patches Menu
 
 In Vizor, you add 3D objects using the “Patches Menu.” The Patches Menu contains two tabs. 
 
 * The “Objects” tab shows objects you can add to your scene. 
-* The “Patches” tab allows you to use programming to make your scene dynamic and will be explored in later projects. 
+* The “Patches” tab allows you to use programming in Vizor and will be explored in later projects. 
 
 If you do not see the Patches Menus, click the “Patches” button in the Vizor editor. You can click again to make the Patches Menu disappear. You can also click on the Patches Menu and drag to move the menu around.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B16PH6RZRts" frameborder="0" allowfullscreen></iframe>
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/B16PH6RZRts" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Click the Patches button on the top right to turn the Patches menu on and off.</strong> 
+</div>
 
-Now let's add an object!
+<br>
 
-* Select the Objects tab in the Patches Menu.
-* Select the objects “Objects: Basic” option, then select the “Box” option.
+<div class="alert_red" style="text-align:center">
+  <strong>Remembet to hit "Tab" if your Editor ever looks like the following.</strong>
+  <img src="/images/docs/intro_vizor/patches.png">
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pQFgFhsqX0c" frameborder="0" allowfullscreen></iframe>
+### Hello Objects!
 
-You should now see a 3-dimensional box in your scene. You can use the Vizor editor to change the position, size, or rotation of any object. 
+Now let's add an object to your world!
 
-* Select your object. You've selected an object when red, green, and blue lines appear by the object. Each line represents an “axis” you can use to adjust the object. The plural form of axis is “axes,” which is pronounced “axe-zeez”.
-* Select the “Move” button, then click and drag on any of the object axes to change the object position.
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Select the Objects tab in the Patches menu. </li>
+  	<li>Select the objects “Objects: Basic” option, then select the “Box” option. </li>
+  </ul>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/npOygI-vQ-8" frameborder="0" allowfullscreen></iframe>
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/pQFgFhsqX0c" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Click "Box" in the "Objects: Basic" option on the Patches Menu to add a Box to your scene.</strong> 
+</div>
 
-* Select the “Scale” button, then click and drag on any of the object axes to make the object bigger or smaller. 
+You should now see a 3-dimensional box in your scene. Once you've selected an object, you can change the position, size, or rotation. You know you've selected an object when red, green, and blue lines appear by the object. Each line represents an “axis” you can use to adjust the object. The plural form of axis is “axes,” which is pronounced “axe-zeez”.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0CxPw10-xYs" frameborder="0" allowfullscreen></iframe>
+### Hello Objects: Manipulation
+The following videos will show you how to manipulate objects.
 
-* Select the “Rotate” button, then click and drag on any of the object axes to change the object rotation.
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/npOygI-vQ-8" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Select the "Move" button on the rop right to move an object.</strong> 
+</div>
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNYuxEe1rCI" frameborder="0" allowfullscreen></iframe>
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/0CxPw10-xYs" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Select the "Scale" button on the rop right to change an object's size.</strong> 
+</div>
+<br>
 
-### Advanced Controls
+<div style="text-align:center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/NNYuxEe1rCI" frameborder="0" allowfullscreen></iframe>
+	<br>
+	<strong>Select the "Rotate" button on the rop right to rotate an object.</strong> 
+</div>
+<br>
 
-You can delete an object at any time by selecting the object and pressing “Backspace” or “Delete” on your keyboard. 
-
-You can undo your changes by pressing the “Ctrl” and “Z” button on your keyboard. 
-
-With an object selected, you can press “Alt” and move the object to create a copy.
+<div class="alert_yellow">
+  <div style="text-align:center">
+  	<strong>Extra Tips!</strong> 
+  </div>
+  <ul> 
+  	<li>You can delete an object by selecting the object and pressing “Backspace” or “Delete” on your keyboard. </li>
+  	<li>You can undo your changes by pressing the “Ctrl” and “Z” button on your keyboard. </li>
+  	<li>With an object selected, you can press “Alt” and move the object to create a copy. </li>
+  </ul>
+</div>
 
 ### Building a World
 
-You're all set to start building your first virtual world. Add objects to your scene and modify the scene as much as you'd like. We recommend only using objects that appear under the “Objects:” items in the Patches Menu. Make a scene you would like to show a friend and add at least 5 objects to the scene before you continue.
+Now you're all set to start building your first virtual world! 
+
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Add at least 5 objects to your scene and modify the objects as much as you want. </li>
+  	<li>Make a scene you would be happy to show your friends. </li>
+  	<li>Once you are ready, go to the next section to view and publish your project. </li>
+  </ul>
+</div>
 

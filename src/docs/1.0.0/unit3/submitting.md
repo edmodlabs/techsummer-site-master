@@ -1,6 +1,6 @@
 ---
-title: Uploading your Project
-section_title: Uploading your Project
+title: Uploading Your Project
+section_title: Uploading Your Project
 type: unit3
 layout: docs
 parent_section: project3
@@ -10,12 +10,29 @@ toc: true
 
 ## Share With The World
 
-One of the coolest parts about Vizor is the ability to share what you build with the world. If you want, you can let anyone with a VR headset see what you've built. 
+One of the coolest parts about Vizor is the ability to share what you build with anyone. Anyone with a VR headset can see what you've built. 
 
 ### Publishing
-To publish your project, click the “Publish” button in the Vizor editor. A screen should pop up. Give your project a name and hit the “Publish” button to publish your project on the internet. You'll then be taken to a website with the URL of **vizor.io/(your username)/(your project name)**. What's a URL? URL stands for Uniform Resource Locator and is basically an internet address for where different websites live.
+When you are ready, complete the following to publish your project. 
 
-If your username is “techstart” and your project name is “my_project,” the URL for your Vizor project is vizor.io/techstart/my_project. You can view, edit and delete all of your projects by visiting **vizor.io/(your username)** in your browser.
+<div class="alert_blue">
+  <div style="text-align:center">
+  	<strong>Publish Your Project!</strong> 
+  </div>
+  <ul> 
+  	<li>Click the “Publish” button on the top right of Vizor's editor. </li>
+  	<li>Give your project a name. </li>
+  	<li>Make your project public. </li>
+  	<li>Hit the publish button! </li>
+  	<br>
+  	Here's a video guide of the steps above.
+  	<iframe width="560" height="315" src="https://www.youtube.com/embed/pQFgFhsqX0c" frameborder="0" allowfullscreen></iframe>
+  </ul>
+</div>
+
+When you complete the above, you'll be taken to a website with the URL of **vizor.io/(your username)/(your project name)**. If your username is “techstart” and your project name is “my_project,” the URL would be vizor.io/techstart/my_project. 
+
+You can view, edit and delete your projects at **vizor.io/(your username)**.
 
 ### Viewing
 
