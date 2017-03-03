@@ -1,18 +1,33 @@
 ---
-title: TechStart Virtual Reality Manual
+title: Welcome
 type: community
 layout: page
 ---
+<hr>
 
-## TechStart Virtual Reality Manual
+TechStart aims to expose students to emerging technologies and computer science. Our newest offerings focus on empowering students to explore the limitless potential of virtual reality using Vizor and 360 media.
 
-TechStart is shipping a VR Kit to participating classrooms that will inspire participation in computer science through the cutting edge medium of virtual reality. 
-
-* [Installation](/installation) - Start creating virtual reality content with step by step projects.
+## Site Content
+* [Installation](/installation) - View guides on setting up your equipment.
 * [Projects](/docs) - Start creating virtual reality content with step by step projects.
-* [FAQ](/faq) - Frequently asked questions
-* [Community](/community) - Links to helpful resources from around the web
-* [Support](https://support.oculus.com/) - Oculus Tech Support 
+* [FAQS](/faq) - Check frequently asked questions.
+* [Community](/community) - Check out links to helpful resources from around the web.
+* [Support](https://support.oculus.com/) - Contact Oculus Support.
+
+## Vizor and 360 Media
+Vizor is a browser-based, creative platform for VR. Using Vizor, anyone can easily create and share both virtual and 360 content. Check out the following projects for an idea of what you could make if you dive into Vizor!
+
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/fthr/exploding-rocket-5" ></script>
+	<strong>Enjoy an environment composed of music and moving objects.</strong> 
+</div>
+
+<br>
+
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/examples/360-photo" ></script>
+	<strong>Be immersed in a bustling city.</strong> 
+</div>
 
 Website source code adopted from the incredible [@aframe](https://aframe.io) [site](https://github.com/aframevr/aframe-site)
  and [@vuejs](https://vuejs.org) [site](https://github.com/vuejs/vuejs.org/).

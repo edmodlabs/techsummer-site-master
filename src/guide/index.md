@@ -10,20 +10,39 @@ toc: false
 ---
 
 
-## Step 1 - Visit your State's Homepage
+## Visit your State's Homepage
 
-For deadlines and important information visit your State's Hompepage at 
-[techstart.fb.com/AR](techstart.fb.com/AR)
+For deadlines and important information visit your <a href='https://techstart.fb.com/AR'>State's Hompepage. </a>
 
 <div style="text-align:center" >
-<a class="btn btn-download" href="techstart.fb.com"><span></span>Go to Arkansas Homepage<span></span></a>
+<a class="btn btn-download" href="https://techstart.fb.com"><span></span>Go to Arkansas Homepage<span></span></a>
 </div>
 
 
-## Step 2 - Explore the TechStart Resources
+## Guide to the TechStart Github
+Welcome to the guide for TechStart's Github site. The site is an open-source, ever-evolving hub of technology projects. Check back often, and you can even view how the site was made or suggest changes on the <a href="https://github.com/techstart/TechStart-Site">TechStart repository.</a>
 
-* [Installation](/installation) - Start creating virtual reality content with step by step projects.
+### Navigating the Site
+Use the side bar and directions on your state page to navigate the site. The following alerts will help you understand content. 
+
+<div class="alert_red">
+  <strong>Warning</strong> - Indicates an important warning or point.
+</div>
+<br/>
+<div class="alert_green">
+  <strong>To Do</strong> - Indicates steps that should be completed before proceeding.
+</div>
+<br/>
+<div class="alert_yellow">
+  <strong>Extra Information</strong> - Indicates optional information.
+</div>
+
+
+## Browse
+If you want to start browsing the TechStart Github, visit any of the following.
+
+* [Installation](/installation) - View guides on setting up your equipment.
 * [Projects](/docs) - Start creating virtual reality content with step by step projects.
-* [FAQ](/faq) - Frequently asked questions
+* [FAQS](/faq) - Frequently asked questions
 * [Community](/community) - Links to helpful resources from around the web
 * [Support](https://support.oculus.com/) - Oculus Tech Support 

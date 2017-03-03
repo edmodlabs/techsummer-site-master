@@ -6,7 +6,6 @@ layout: page
 
 ## TechStart
 
-* [TechStart VR Group](https://www.facebook.com/groups/TechStartSupport) Ask questions, post feedback, provide suggestions for other instructors, and socialize! 
 * [TechStart VR Manual Github](https://github.com/techstart/TechStart-Site) - Grab the code, file issues, and contribute.
 
 ## Oculus 
@@ -20,6 +19,10 @@ layout: page
 * [Upload VR Blog](http://uploadvr.com/)
 * [Road to VR Blog](http://www.roadtovr.com/)
 * [Virtual Reality Subreddit](https://www.reddit.com/r/virtualreality/)
+
+## Vizor
+* [Vizor](http://vizor.io/) - A browser-based, creative platform for VR.
+* [Vizor Tutorials](http://blog.vizor.io/tag/tutorials/) - Tutorials created by the Vizor team.
 
 ## 360 Video
 

@@ -58,7 +58,7 @@ Congratulations! You've completed your first VR project. Now's a great time to r
 * How to manipulate objects in a computer graphics program.
 * How to build and share your first virtual world.
 
-Stay tuned for more projects from TechStart. We'll soon add projects that let you use code to create interactive and more customized worlds!
+Stay tuned for more projects from TechStart. We'll soon add projects that let you use code to create interactive and more customized worlds! Don't want to wait? Check out [tutorials built by the Vizor team.](http://blog.vizor.io/tag/tutorials/)
 
 <div class="alert_yellow">
   <div style="text-align:center">
