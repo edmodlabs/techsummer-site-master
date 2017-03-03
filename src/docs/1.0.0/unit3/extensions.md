@@ -7,46 +7,67 @@ parent_section: project3
 order: 6
 toc: true
 ---
+Take your virtual reality design skills to the next level with tips from Facebook engineers! The sections below have examples you can view on your computer or in VR for a hands-on experience.
 
-## Pro Tips
+## Use Sizes Wisely
+The size of objects in VR is crucial. Realistic experiences use objects with accurate sizes. However, accurate sizes are not always best. You can alter sizes to make a creative statement, change the meaning of your scene, add goofiness, and more.
 
-So, you're a pro? Not so fast - the VR space changes every day! Even engineers at Facebook are always learning and practicing to be better. Our engineers added the following sections to show pro tips for designing VR projects. Every section has examples you can view on your computer or in virtual reality for a hands-on experience.
+Check out how the meaning of the following scenes changes based on the size of the objects.
 
-### Use Sizes Wisely
-The size of objects in virtual reality is very important. If you want to build a realistic experience, you should make sure that objects have believable sizes. However, realistic experiences are not always best. You can change the sizes of objects to make a creative statement, change the meaning of your scene, add goofiness, and more.
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_escape" ></script>
+	<strong>A scientist and meditating person landed on a deserted, floating island. How long before they take off?</strong> 
+</div>
 
-In the following scene, a scientist and meditating person landed on a floating island. Soon, they'll use the rocket to blast off to their next destination.
+<br>
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_escape" ></script>
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_toys" ></script>
+	<strong>Looks like the meditating person is stuck! At least they brought a rocket toy and scientist action figure.</strong> 
+</div>
 
-In the next scene, we've changed the size of the scientist and rocket objects. Same objects, different sizes, different meaning. What do you think could be a story for the scene?
+## Place Objects for Comfortable Viewing
+Unlike a game or movie, your user in virtual reality actually needs to look around to see a scene. So, great VR designers make worlds that are comfortable to view. How?
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_toys" ></script>
+One way is to place important objects close, and others far away. Another strategy is to place important objects in front of the user.
 
-### Place Objects for Comfortable Viewing
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_lone_close_tree" ></script>
+	<strong>The tree is close and therefore more important to the story your user will imagine than the rocks in the distance.</strong> 
+</div>
 
-Unlike a game or movie, your user in virtual reality actually needs to look around to see the whole scene. So, the best VR designers are sure to make a scene that is comfortable for users to view. How?
+<br>
 
-One concept is to make important objects close, and less important objects far away. Check out the following tree in a desert. We're not sure why there's a tree in a desert either, but we do know that since the tree is closer you're more likely to pay attention to the tree than the rocks in the distance.
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_cone_spiders" ></script>
+	<strong>Try the world above. Did you notice the giant spiders marching behind you? Probably not. The most important objects should be in front.</strong> 
+</div>
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_lone_close_tree" ></script>
+## Positioning Your User
+Where you place your user determines the rules of your world. In Vizor, you can move the VR camera (the head with a VR headset on) just like any other object.
 
-Also look at the following project.
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_user_placement_observer" ></script>
+	<strong>The VR camera is high in the world, which makes your user an observer of a science experiment.</strong> 
+</div>
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_cone_spiders" ></script>
+<br>
 
-Did you notice the giant spiders behind you? Most people don't and, if you didn't, we also don't blame you if you don't want to look. Just remember that your users are most likely to see what you put directly in front of them. It's uncomfortable to look anywhere else.
+<div style="text-align:center">
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_user_placement_you_are_experiment" ></script>
+	<strong>Now the VR camera is on the experiment table. Your user <i>is</i> the science experiment.</strong> 
+</div>
 
-### Positioning Your User
+<br>
 
-A final design consideration is where to place your user. When you create a virtual world, you're inviting your user into a world where you build all the rules.
-
-In the following world, your user is an observer of a scientist about to run an experiment on a lab table.
-
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_user_placement_observer" ></script>
-
-We can change the position of the VR camera to change the user's experience. In the next world, your user is on the table. Now, your user is the experiment!
-
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_user_placement_you_are_experiment" ></script>
-
-### Using the pro tips, how can you make a better virtual world? Have you discovered pro tips of your own? Make some plans, try them in Vizor, and be sure to publish any projects you make!
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Do It Yourself!</strong> 
+  </div>
+  <ul> 
+  	<li>Change the story or meaning of your Vizor projects by altering the object sizes. </li>
+  	<li>Reposition objects to make sure users enjoy and understand your experience. </li>
+  	<li>Move the VR camera to change your user's experience. </li>
+  	<li>Run wild with your own techniques and ideas! The VR space is so new you could discover a new design tip! </li>
+  </ul>
+</div>

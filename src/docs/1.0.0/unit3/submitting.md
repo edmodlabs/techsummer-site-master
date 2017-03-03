@@ -7,15 +7,13 @@ parent_section: project3
 order: 5
 toc: true
 ---
-
-## Share With The World
-
-One of the coolest parts about Vizor is the ability to share what you build with anyone. Anyone with a VR headset can see what you've built. 
+<hr>
+One of the best parts of Vizor is sharing the worlds you build with your friends.
 
 ### Publishing
-When you are ready, complete the following to publish your project. 
+To share your creation, you first need to publish your project.
 
-<div class="alert_blue">
+<div class="alert_green">
   <div style="text-align:center">
   	<strong>Publish Your Project!</strong> 
   </div>
@@ -25,20 +23,46 @@ When you are ready, complete the following to publish your project.
   	<li>Make your project public. </li>
   	<li>Hit the publish button! </li>
   	<br>
-  	Here's a video guide of the steps above.
-  	<iframe width="560" height="315" src="https://www.youtube.com/embed/pQFgFhsqX0c" frameborder="0" allowfullscreen></iframe>
+  	Here's a video walk-through of the steps above.
+  	<iframe width="560" height="315" src="https://www.youtube.com/embed/7GH0YgG4OME" frameborder="0" allowfullscreen></iframe>
   </ul>
 </div>
 
-When you complete the above, you'll be taken to a website with the URL of **vizor.io/(your username)/(your project name)**. If your username is “techstart” and your project name is “my_project,” the URL would be vizor.io/techstart/my_project. 
+When you complete the above, you'll be taken to a website with the URL of **vizor.io/(your username)/(your project name)**. If your username is “techstart” and your project name is “TheEmptyDesert” the URL would be vizor.io/techstart/TheEmptyDesert.
 
 You can view, edit and delete your projects at **vizor.io/(your username)**.
 
 ### Viewing
 
-Although you can use Vizor on any computer, you'll need a computer or phone with WebVR to view Vizor projects in virtual reality.
+Although you can build Vizor projects on any computer, you'll need a computer or phone with WebVR to view Vizor projects in VR. You can learn more about installation on TechStart's [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) guide.
 
-Once you have WebVR and your virtual reality headset ready, open Firefox Nightly on your computer and enter the URL of your published project. If you click near the bottom of the screen, you'll see an icon which looks like binoculars. On the internet, that icon is used to start a VR experience. Click the icon and put the headset on to see what you made in virtual reality!
+<div class="alert_green">
+  <div style="text-align:center">
+    <strong>View Your Project!</strong> 
+  </div>
+  <ul> 
+    <li>Open Firefox Nightly on your computer. </li>
+    <li>Enter the URL of your published project. </li>
+    <li>Click on the screen, and icons should appear near the bottom. </li>
+    <li>Click the binoculars icon and put on your headset to try your project in VR! </li>
+    <br>
+    Here's a video walk-through of the steps above.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j37fTMvhQgU" frameborder="0" allowfullscreen></iframe>
+  </ul>
+</div>
 
-### After you've completed all steps above and your project is listed at **vizor.io/(your username)**, please complete a <a href="https://www.surveymonkey.com/r/6JF7XLL" target="_blank">3-Minute Survey</a>.
+## Conclusion
+Congratulations! You've completed your first VR project. Now's a great time to review what you learned:
 
+* The basics of a computer graphics program named Vizor.
+* How to manipulate objects in a computer graphics program.
+* How to build and share your first virtual world.
+
+Stay tuned for more projects from TechStart. We'll soon add projects that let you use code to create interactive and more customized worlds!
+
+<div class="alert_yellow">
+  <div style="text-align:center">
+  	<strong>Extensions</strong> 
+  </div>
+  Do you want to learn more about virtual world design and improve your project? Continue to the Extensions section for design tips from Facebook engineers on how to build even cooler virtual worlds.
+</div>
