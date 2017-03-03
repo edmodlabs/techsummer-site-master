@@ -20,7 +20,7 @@ For deadlines and important information visit your <a href='https://techstart.fb
 
 
 ## Guide to the TechStart Github
-Welcome to the guide for TechStart's Github site. The site is an open-source, ever-evolving hub of technology projects. Check back often, and you can even view how the site was made or suggest changes on the <a href="https://github.com/techstart/TechStart-Site">TechStart repository.</a>
+Welcome to the guide for TechStart's Github site. The site is an open-source, ever-evolving hub of technology projects. Check back often, and you can even view how the site was made or suggest changes at the <a href="https://github.com/techstart/TechStart-Site">TechStart repository.</a>
 
 ### Navigating the Site
 Use the side bar and directions on your state page to navigate the site. The following alerts will help you understand content. 
