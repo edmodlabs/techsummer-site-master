@@ -19,18 +19,6 @@ If your school has access to Facebook and you have your teacher's permission, yo
 </div>
 
 ## Conclusion
-<div class="alert_green">
-  <div style="text-align:center">
-  	<strong>A Note to TechStart Innovators </strong>
-  </div>
-  You are required to submit one 360 image to TechStart. Use the following steps. 
-  <ul> 
-  	<li>Capture a 360 image of your classroom. </li>
-  	<li>Drag and drop the image into the Vizor [360 image viewer](http://360.vizor.io/). </li>
-  	<li>Click "Share" and save the URL. You will need to provide the URL to Vizor later. </li>
-  </ul>
-</div> 
-
 Congratulations! You've completed your first 360 project. Now's a great time to review what you learned:
 
 * How to operate a 360 camera.
