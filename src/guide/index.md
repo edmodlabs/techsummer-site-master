@@ -15,7 +15,7 @@ toc: false
 For deadlines and important information visit your <a href='https://techstart.fb.com/ar'>State's Hompepage. </a>
 
 <div style="text-align:center" >
-<a class="btn btn-xl" href="https://techstart.fb.com">Visit Arkansas Homepage</a>
+<a class="btn btn-xl" href="https://techstart.fb.com/ar">Visit Arkansas Homepage</a>
 </div>
 
 
