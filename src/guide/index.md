@@ -12,7 +12,7 @@ toc: false
 
 ## Visit your State's Homepage
 
-For deadlines and important information visit your <a href='https://techstart.fb.com/AR'>State's Hompepage. </a>
+For deadlines and important information visit your <a href='https://techstart.fb.com/ar'>State's Hompepage. </a>
 
 <div style="text-align:center" >
 <a class="btn btn-xl" href="https://techstart.fb.com">Visit Arkansas Homepage</a>
