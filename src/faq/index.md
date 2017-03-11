@@ -8,7 +8,7 @@ toc: true
 ## What age range is appropriate for the VR Kit?
 The VR headset is not for use by children under age 13 according to the official health and safety warning. 
 
-## What Hardware is included in the Virtual Reality Kit?
+## What hardware does TechStart provide to qualifying schools?
 The VR Kit includes the following items:
 * 1x Oculus Ready PC Tower that meets the Oculus minimum specs and approved by Oculus IT
 * Mouse and Keyboard
