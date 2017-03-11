@@ -10,13 +10,13 @@ The VR headset is not for use by children under age 13 according to the official
 
 ## What hardware does TechStart provide to qualifying schools?
 The VR Kit includes the following items:
-* 1x Oculus Ready PC Tower that meets the Oculus minimum specs and approved by Oculus IT
+* One Oculus-Ready computer that meets the Oculus minimum specs and is approved by Oculus IT.
 * Mouse and Keyboard
-* 1x Oculus Rift CV1
-* 1x 24” Monitor
-* 1x Ricoh Theta S 360 Camera
-* 1x Camera Stand
-* 1x Laminated getting started guide
+* One Oculus Rift
+* One 24” Monitor
+* One Ricoh Theta S 360 Camera
+* One Camera Stand
+* One Starter Kit documenting how to use TechStart equipment in a school.
 
 ## How will the equipment be used? 
 We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the VR kit into their classrooms.
