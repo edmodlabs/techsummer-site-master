@@ -10,20 +10,22 @@ toc: false
 ---
 
 
-## Visit your State's Homepage
+## Get Started
 
-For deadlines and important information visit your <a href='https://techstart.fb.com/ar/'>State's Hompepage. </a>
+TechStart, powered by Facebook, is a nationwide initiative striving to modernize education through technology. Click the button below to view step-by-step guides for your school:
 
 <div style="text-align:center" >
 <a class="btn btn-xl" href="https://techstart.fb.com/ar/">Visit Arkansas Homepage</a>
 </div>
 
 
-## Guide to the TechStart Github
-Welcome to the guide for TechStart's Github site. The site is an open-source, ever-evolving hub of technology projects. Check back often, and you can even view how the site was made or suggest changes at the <a href="https://github.com/techstart/TechStart-Site">TechStart repository.</a>
+## Project Hub Guide
+Welcome to TechStart's Project Hub, an open-source, ever-evolving site of technology projects. Check back often, and you can view the site's design or even suggest changes at the <a href="https://github.com/techstart/TechStart-Site">TechStart repository.</a>
 
 ### Navigating the Site
-Use the side bar and directions on your state page to navigate the site. The following alerts will help you understand content. 
+Use the side bar at the top of the page to navigate. 
+
+In text, important words are often displayed in **bold** font. The following alerts will also be displayed to help you distinguish between different types of content.
 
 <div class="alert_red">
   <strong>Warning</strong> - Indicates an important warning or point.
@@ -38,11 +40,5 @@ Use the side bar and directions on your state page to navigate the site. The fol
 </div>
 
 
-## Browse
-If you want to start browsing the TechStart Github, visit any of the following.
-
-* [Installation](/installation) - View guides on setting up your equipment.
-* [Projects](/docs) - Start creating virtual reality content with step by step projects.
-* [FAQS](/faq) - Frequently asked questions
-* [Community](/community) - Links to helpful resources from around the web
-* [Support](https://support.oculus.com/) - Oculus Tech Support 
+## Thank You!
+We're excited that you have joined the TechStart community. Remember to visit your [state's homepage](https://techstart.fb.com/ar/) to get started.

@@ -51,7 +51,7 @@ Now let's add an object to your world!
 	<strong>Click "Box" in the "Objects: Basic" option on the Patches Menu to add a Box.</strong> 
 </div>
 
-You should now see a box in your scene. Once you've selected an object, you can change the position, size, or rotation. You know you've selected an object when red, green, and blue lines appear by the object. Each line is an “axis” you can use to adjust the object. The plural form of axis is “axes,” which is pronounced “axe-zeez”.
+You should now see a box object in your scene. You can select any object by clicking on the object. You know you've selected an object when red, green, and blue lines appear by the object. Each line is an “axis” and can be used to change the object's position, size, and rotation.
 
 #### Object Manipulation
 The following videos show how you can manipulate objects. The "Move," "Scale," and "Rotate" buttons can be found on the rop right of the Vizor editor.

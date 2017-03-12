@@ -5,13 +5,12 @@ layout: page
 ---
 <hr>
 
-TechStart aims to expose students to emerging technologies and computer science. Our newest offerings focus on empowering students to explore the limitless potential of virtual reality using Vizor and 360 media.
+TechStart, powered by Facebook, is a nationwide initiative striving to modernize education through technology. Our newest offerings focus on empowering students to explore the limitless potential of virtual reality using Vizor and 360 media.
 
 ## Site Content
-* [Installation](/installation) - View guides on setting up your equipment.
 * [Projects](/docs) - Start creating virtual reality content with step by step projects.
-* [FAQS](/faq) - Check frequently asked questions.
 * [Community](/community) - Check out links to helpful resources from around the web.
+* [FAQS](/faq) - Check frequently asked questions.
 * [Support](https://support.oculus.com/) - Contact Oculus Support.
 
 ## Vizor and 360 Media

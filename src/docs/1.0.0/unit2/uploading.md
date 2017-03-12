@@ -1,5 +1,5 @@
 ---
-title: Uploading your Image
+title: Uploading Your Image
 section_title: Uploading Your Images
 type: unit2
 layout: docs
@@ -18,10 +18,10 @@ Time to view your 360 images!
   <ul> 
   	First, we need to copy the images from the camera to your computer.
   	<li>Connect the Ricoh Theta S to the Techstart VR computer via the included USB cable. </li>
-  	<li>Browse to the RICOH THETA S camera device through the Windows File Explorer.. </li>
-  	<li>Double click on the "RICOH THETA S" option.</li>
-  	<li>Double click on "Fixed Storage" inside of the "RICOH THETA S". </li>
-	<li>Double click on "DCIM" inside of the "RICOH THETA S". The folder contains all images stored on the camera. </li>
+  	<li>Browse to the RICOH THETA S camera device through the Windows File Explorer. </li>
+  	<li>Double click on the "RICOH THETA S" folder.</li>
+  	<li>Double click on "Fixed Storage" folder inside of the "RICOH THETA S" folder. </li>
+	  <li>Double click on "DCIM" folder inside of the "RICOH THETA S" folder. The folder contains all images stored on the camera. </li>
 	<div style="text-align:center">
 		<img src="/images/docs/360_images/theta_OS1.png">
 	</div>

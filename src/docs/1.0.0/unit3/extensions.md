@@ -4,7 +4,7 @@ section_title: Extensions
 type: unit3
 layout: docs
 parent_section: project3
-order: 6
+order: 5
 toc: true
 ---
 Take your virtual reality design skills to the next level with tips from Facebook engineers! The sections below have examples you can view on your computer or in VR for a hands-on experience.
@@ -12,7 +12,7 @@ Take your virtual reality design skills to the next level with tips from Faceboo
 ## Use Sizes Wisely
 The size of objects in VR is crucial. Realistic experiences use objects with accurate sizes. However, accurate sizes are not always best. You can alter sizes to make a creative statement, change the meaning of your scene, add goofiness, and more.
 
-Check out how the meaning of the following scenes changes based on the size of the objects.
+Check out how the following scenes have different stories when object sizes vary.
 
 <div style="text-align:center">
 	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_scale_escape" ></script>
@@ -33,7 +33,7 @@ One way is to place important objects close, and others far away. Another strate
 
 <div style="text-align:center">
 	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_lone_close_tree" ></script>
-	<strong>The tree is close and therefore more important to the story your user will imagine than the rocks in the distance.</strong> 
+	<strong>The tree is close and therefore your user will imagine it is more important to the story than the rocks in the distance.</strong> 
 </div>
 
 <br>

@@ -4,7 +4,7 @@ section_title: Uploading Your Project
 type: unit3
 layout: docs
 parent_section: project3
-order: 5
+order: 4
 toc: true
 ---
 <hr>
@@ -28,7 +28,11 @@ To share your creation, you first need to publish your project.
   </ul>
 </div>
 
-When you complete the above, you'll be taken to a website with the URL of **vizor.io/(your username)/(your project name)**. If your username is “techstart” and your project name is “TheEmptyDesert” the URL would be vizor.io/techstart/TheEmptyDesert.
+When you complete the above, you'll be taken to a website with the URL of **vizor.io/(your user name)/(your project name)**. If your user name is “techstart” and your project name is “TheEmptyDesert” the URL would be vizor.io/techstart/TheEmptyDesert.
+
+<div class="alert_red">
+  <strong>Warning:</strong> Capitalization matters when typing Vizor user and project names.
+</div>
 
 You can view, edit and delete your projects at **vizor.io/(your username)**.
 

@@ -17,7 +17,7 @@ Let's jump right in and capture your first 360-degree image!
 
 ## Hello 360 World!
 
-Grab the Ricoh Theta S camera provided by Techstart. If you have not already, unpack the pieces from the box and locate the following:
+Grab the Ricoh Theta S camera provided by TechStart. If you have not already, unpack the pieces from the box and locate the following:
 
 * Ricoh Theta S Camera
 * USB Cable

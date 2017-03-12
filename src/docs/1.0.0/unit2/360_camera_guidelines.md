@@ -13,7 +13,7 @@ order: 3
 
 ### Be the tripod.  
 
-When holding the camera, crouch down slightly. The shutter button and one of the camera lenses should be facing you directly. Keep the camera as upright as possible, don't tilt or roll it sideways.  
+When holding the camera, crouch down slightly. The shutter button and one of the camera lenses should be facing you directly. Keep the camera as upright as possible; don't tilt or roll the camera sideways.  
 
 ### Beware the circle.  
 
@@ -27,7 +27,7 @@ Images outside in daylight will look best, but if using the camera inside turn o
   <div style="text-align:center">
   	<strong>Remote Setup</strong> 
   </div>
-	The Ricoh Theta has an option to work remotely from a smartphone.  Techstart does not supply one, but if you have access a smartphone and would like to remotely use the camera, you can by following the next two steps.
+	The Ricoh Theta has an option to work remotely from a smartphone.  TechStart does not supply one, but if you have access to a smartphone and would like to remotely use the camera, you can by following the next two steps.
   <ul> 
   	<li>Configure the camera's [wifi mode.](https://theta360.com/en/support/manual/content/prepare/prepare_06.html) </li>
   	<li>Use the Ricoh Theta smartphone app on your device to [operate the camera.](https://theta360.com/en/support/manual/content/shooting/shooting_02.html) </li>

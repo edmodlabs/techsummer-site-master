@@ -19,7 +19,7 @@ You'll first need to create a Vizor account.
   </div>
   <ul> 
   	<li>Navigate to <a href="https://vizor.io" target="_blank">vizor.io</a> in your web browser and click on the “Sign Up” button. </li>
-  	<li> Fill the information on the “Sign Up” screen and click “Create an Account.” </li>
+  	<li> Fill in the information on the “Sign Up” screen and click “Create an Account.” </li>
   	<li> A new screen will show Vizor tutorials, the Vizor Facebook group, and more. Click the “X” button, wait for the scene to load, and you're ready to continue! </li>
   </ul>
 </div>

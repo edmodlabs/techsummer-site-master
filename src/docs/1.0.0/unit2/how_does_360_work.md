@@ -15,7 +15,7 @@ If your school has access to Facebook and you have your teacher's permission, yo
   <div style="text-align:center">
   	<strong>Try It Yourself </strong>
   </div>
-  If you are completing the project as a TechStart Innovator at your school and you have teacher permission, post a 360-image of your classroom to the [Techstart Student Facebook group](https://www.facebook.com/groups/ts.students.arkansas/)
+  If you are completing the project as a TechStart Student Innovator at your school and you have teacher permission, post a 360-image of your classroom to the [Techstart Student Facebook group](https://www.facebook.com/groups/ts.students.arkansas/)
 </div>
 
 ## Conclusion

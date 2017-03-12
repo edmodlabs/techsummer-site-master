@@ -8,15 +8,17 @@ toc: true
 ## What age range is appropriate for the VR Kit?
 The VR headset is not for use by children under age 13 according to the official health and safety warning. 
 
-## What hardware does TechStart provide to qualifying schools?
-The VR Kit includes the following items:
+## What equipment does TechStart provide to qualifying schools?
+TechStart is currently supporting a VR offering that provides schools the following:
+* One Starter Kit documenting how to use TechStart equipment in a school.
 * One Oculus-Ready computer that meets the Oculus minimum specs and is approved by Oculus IT.
 * Mouse and Keyboard
 * One Oculus Rift
 * One 24” Monitor
 * One Ricoh Theta S 360 Camera
 * One Camera Stand
-* One Starter Kit documenting how to use TechStart equipment in a school.
+
+Have ideas for other offerings you'd like to see from TechStart? Let us know at <techstart@fb.com>!
 
 ## How will the equipment be used? 
 We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the VR kit into their classrooms.

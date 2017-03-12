@@ -1,6 +1,6 @@
 ---
-title: Vizor Starter Project
-section_title: Introduction to Vizor
+title: Getting Started
+section_title: 360 Image Project
 type:  unit3
 layout: docs
 parent_section: docs
@@ -8,7 +8,7 @@ order: 1
 section_order: 4
 ---
 <hr>
-Welcome to the Introduction to Vizor project! Read the following points before you get started.
+Welcome to the **Vizor Starter Project**! Read the following points before you get started.
 
 ## Project Goals
 Let's jump into the world of VR development! By the end of the project, you will:
@@ -29,8 +29,7 @@ Here's an example of what you'll build. Hit play, then click and drag to look ar
 * Vizor projects are most exciting in VR! To use VR with Vizor, you'll need a computer with VR and WebVR installed. Check the [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) section if you're not sure if your computer is ready.
 
 <div class="alert_red" style="text-align:center">
-  <strong>Warning: if your editor ever looks like the below, you are in Vizor's "Patches" mode and should hit "Tab" on your keyboard to exit. Patches add programming to your world and will be explained in later projects.</strong>
-  <br>
+  <strong>Warning:</strong> if your editor ever looks like the image below, you are in Vizor's "Patches" mode and should hit "Tab" on your keyboard to exit. Patches add programming to your world and will be explained in later projects.
   <img src="/images/docs/intro_vizor/patches.png">
 </div>
 
