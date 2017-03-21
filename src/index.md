@@ -7,6 +7,12 @@ layout: page
 
 TechStart, powered by Facebook, is a nationwide initiative striving to modernize education through technology. Our newest offerings focus on empowering students to explore the limitless potential of virtual reality using Vizor and 360 media.
 
+## Site Content
+* [Projects](/docs) - Start creating virtual reality content with step-by-step projects.
+* [FAQS](/faq) - Check frequently asked questions.
+* [Community](/community) - Check out links to helpful resources from around the web.
+* [Support](https://support.oculus.com/) - Contact Oculus Support.
+
 ## Vizor and 360 Media
 Vizor is a browser-based, creative platform for VR. Using Vizor, anyone can easily create and share both virtual and 360 content. Check out the following projects for an idea of what you could make if you dive into Vizor!
 
