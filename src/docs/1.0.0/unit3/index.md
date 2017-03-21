@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-section_title: 360 Image Project
+section_title: Vizor Starter Project
 type:  unit3
 layout: docs
 parent_section: docs
