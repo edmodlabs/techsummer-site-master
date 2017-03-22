@@ -9,13 +9,13 @@ order: 5
 
 To share any of your images, click the 'Share' button in Vizor.  This will create a URL you can send to others. Send the link to a friend and they can open up the link from a smartphone or another computer browser to see your image!
 
-If your school has access to Facebook and you have your teacher's permission, you can also post the images. Facebook will automatically detect your image as a 360-degree image and do the rest of the magic. You can post the images directly to your wall, or to a friend's page.
+You can also post images on Facebook. Facebook will automatically detect your image as a 360 image and do the rest of the magic. You can post the images directly to your wall, or to a friend's page.
 
 <div class="alert_green">
   <div style="text-align:center">
   	<strong>Try It Yourself </strong>
   </div>
-  If you are completing the project as a TechStart Student Innovator at your school and you have teacher permission, post a 360-image of your classroom to the [Techstart Student Facebook group](https://www.facebook.com/groups/ts.students.arkansas/)
+  If you are completing the project as a TechStart Student Innovator at your school and you have teacher permission, post a 360 image of your classroom to the [Techstart Student Facebook group](https://www.facebook.com/groups/ts.students.arkansas/)
 </div>
 
 ## Conclusion

@@ -15,17 +15,13 @@ Time to view your 360 images!
   <div style="text-align:center">
   	<strong>Try It Yourself!</strong> 
   </div>
+  Before we begin, download and install the <a href='https://theta360.com/intl/support/download/pcapp/windows'>Ricoh Theta S software</a>.
   <ul> 
-  	First, we need to copy the images from the camera to your computer.
-  	<li>Connect the Ricoh Theta S to the Techstart VR computer via the included USB cable. </li>
-  	<li>Browse to the RICOH THETA S camera device through the Windows File Explorer. </li>
-  	<li>Double click on the "RICOH THETA S" folder.</li>
-  	<li>Double click on "Fixed Storage" folder inside of the "RICOH THETA S" folder. </li>
-	  <li>Double click on "DCIM" folder inside of the "RICOH THETA S" folder. The folder contains all images stored on the camera. </li>
-	<div style="text-align:center">
-		<img src="/images/docs/360_images/theta_OS1.png">
-	</div>
-	<li>Transfer all the camera images to your computer. </li>
+  	<li>Use the included USB cable to connect the camera to the VR-ready computer.</li>
+    <div style="text-align:center">
+      <img src="/images/docs/360_images/theta_connect_USB.jpg" width="75%" height="75%">
+    </div>
+	  <li>When prompted, select "Open the device for display". Save the image files you want to view onto the computer. Use a location you will be able to find easily.</li>
   </ul>
 </div>
 
@@ -37,7 +33,7 @@ Now, let's view the images!
   <div style="text-align:center">
   	<strong>Try It Yourself!</strong> 
   </div>
-  For each image you want to view, complete the following on the TechStart VR computer.
+  For each image you want to view, complete the following on the VR-ready computer.
   <ul> 
   	<li>Open the Vizor [360 image viewer](http://360.vizor.io/). </li>
   	<li>Drag and drop the image you want to view into the window. </li>

@@ -11,7 +11,7 @@ order: 6
 How does the camera magically covert a two-dimensional (2D) image into one that looks three-dimensional (3D)?  All digital cameras use a camera lens and a digital sensor to collect light rays from the world.  Your eyeballs, for example, are really good wide-angle lenses and capture up to 130-degrees of the world at once.
 
 <div style="text-align:center">
-	<img src="/images/docs/360_images/FOV.png">
+	<img src="/images/docs/360_images/FOV.png" width="50%" height="50%">
 	<br>
 	<strong>The human eye can look up about 60 degrees and down about 70 degrees for a total field of view of 130 degrees.</strong>
 </div>

@@ -54,10 +54,10 @@ Initially they do, but if you look closely they are the same size.  Scale matter
   <div style="text-align:center">
   	<strong>Try It Yourself!</strong> 
   </div>
-	Time to play with scale using 360 images. Take the following three types of pictures then continue to the next section.
+	Time to play with scale using 360 images. Use the camera to take the following three types of images then continue to the next section.
   <ul> 
-  	<li><strong>Giant World:</strong> Snap an image with the Ricoh Theta at ground or table level with a few objects around it. Try objects of different shapes and sizes. </li>
-  	<li><strong>Normal World:</strong> Snap an image with the Ricoh Theta at your normal eye height.  Grab a few friends to pose around the camera! </li>
-  	<li><strong>Tiny World:</strong> Snap an image with the Ricoh Theta as high as you can safely get it by holding it above your head. Don't drop the camera! </li>
+  	<li><strong>Giant World:</strong> Snap an image at ground or table level with a few objects around it. Try objects of different shapes and sizes. </li>
+  	<li><strong>Normal World:</strong> Snap an image at your normal eye height.  Grab a few friends to pose around the camera! </li>
+  	<li><strong>Tiny World:</strong> Snap an image as high as you can safely get the camera by holding it above your head. Don't drop the camera! </li>
   </ul>
 </div>
