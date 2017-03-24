@@ -25,8 +25,6 @@ Time to view your 360 images!
   </ul>
 </div>
 
-If you're having trouble finding the camera device, with your teacher's permission you can try downloading the [camera software](https://theta360.com/intl/support/download/pcapp/windows) to make the process easier.
-
 Now, let's view the images!
 
 <div class="alert_green">

@@ -23,7 +23,7 @@ No further equipment is needed to complete the TechStart projects.
 
 ## Setup instructions
 
-<iframe src="https://docs.google.com/presentation/d/1k_yq8TJoVs_PdRIlrozSie5fnfcaAsG9P5oM3vJve6Y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1k_yq8TJoVs_PdRIlrozSie5fnfcaAsG9P5oM3vJve6Y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Support
 If you are from a TechStart school or organization and cannot solve technical difficulties with your VR equipment, please ask for help from your own technical support or training networks. TechStart cannot provide faster support than your own local resources.

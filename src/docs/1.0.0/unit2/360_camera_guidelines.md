@@ -36,16 +36,10 @@ Images outside in daylight will look best, but if using the camera inside turn o
 </div>
 
 ## Illusions of Scale
-Virtual reality tricks your brain.  Your eyeballs work hard to perceive the world at a certain *scale*.  
+Virtual reality tricks your brain.  Your eyeballs work hard to perceive the world at a certain *scale*. Sometimes your brain is wrong, like with an optical illusion.  Check out this image. Do the objects look like different sizes?
 
 <div style="text-align:center">
-	<img src="/images/docs/360_images/Use_Brain.gif">
-</div>
-
-Sometimes your brain is wrong, like with an optical illusion.  Check out this image. Do the objects look like different sizes?
-
-<div style="text-align:center">
-	<img src="/images/docs/360_images/optical_illusion.jpg">
+	<img src="/images/docs/360_images/optical_illusion.jpg" width="50%" height="50%">
 </div>
 
 Initially they do, but if you look closely they are the same size.  Scale matters in virtual reality because we can play with these tricks of scale.
