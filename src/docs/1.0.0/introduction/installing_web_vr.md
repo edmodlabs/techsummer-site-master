@@ -36,4 +36,4 @@ We will use FireFox Nightly, also known as Nightly. The following instructions a
 4. Follow the <a href="https://support.oculus.com/878170922281071">Oculus guide</a> to allow Unknown Sources.
 
 ## How Do I Know WebVR is Ready?
-Check out <a href="https://mozvr.com/#showcase">some WebVR projects</a> and confirm you can view the projects in your headset after hitting the “Enter VR” button.
+Try out some WebVR projects! You can find great projects on <a href="http://vizor.io/">Vizor</a>, the Mozilla <a href="http://vrlist.io/">VR List</a> or by searching for WebVR in your browser.

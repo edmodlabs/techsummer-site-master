@@ -13,7 +13,7 @@ In the following section, we'll create a Vizor account and learn editor controls
 ### Creating a Vizor Account
 You'll first need to create a Vizor account.
 <br/>
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Do It Yourself!</strong> 
   </div>
@@ -37,23 +37,20 @@ Many CG applications use multiple cameras to view a project. In Vizor, there are
 
 #### Editor Camera
 
-In Vizor, the "Editor camera" is used to look around your world while you are building. You can switch into Editor camera mode by clicking the Editor camera button in the editor.
+In Vizor, the "Editor camera" is used to look around your world while you are building. You can switch into Editor camera mode by clicking the Editor camera button.
 
 <div style="text-align:center">
 	<img src="/images/docs/intro_vizor/edit_cam.png">
 	<br>
-	<strong> The camera buttons are on the bottom right of the Vizor editor. The left button enters Editor camera mode. </strong>
+	<strong> The camera buttons are on the bottom right of the Vizor editor. The left button is the Editor camera button. </strong>
 </div>
 
 <br>
 
-<div class="alert_green">
-  <div style="text-align:center">
-  	<strong>Do It Yourself!</strong> 
-  </div>
-  <ul> 
-  	<li>Make sure you are in Editor camera mode. </li>
-  </ul>
+<div class="alert_red" style="text-align:center">
+  <strong>Do It Yourself!</strong> 
+  <br>
+  Make sure you are in Editor camera mode.
 </div>
 
 #### Editor Camera: Navigation
@@ -94,18 +91,15 @@ You can switch into VR camera mode by clicking the VR camera button in the edito
 <div style="text-align:center">
 	<img src="/images/docs/intro_vizor/vr_cam.png">
 	<br>
-	<strong> The camera buttons are on the bottom right of the Vizor editor. The right button enters VR camera mode. </strong>
+	<strong> The camera buttons are on the bottom right of the Vizor editor. The right button is the VR camera button. </strong>
 </div>
 
 <br>
 
-<div class="alert_green">
-  <div style="text-align:center">
-  	<strong>Do It Yourself!</strong> 
-  </div>
-  <ul> 
-  	<li>Make sure you are in VR camera mode. </li>
-  </ul>
+<div class="alert_red" style="text-align:center">
+  <strong>Do It Yourself!</strong> 
+  <br>
+  Make sure you are in VR camera mode.
 </div>
 
 #### Editor Camera: Navigation
@@ -118,5 +112,7 @@ While in VR camera mode, you can click and drag to test what it would be like to
 At any time, you can toggle between the Editor camera and VR camera by pressing "V".
 
 <div class="alert_green" style="text-align:center">
-  <strong>Continue!</strong> Advance to the next section and let's start building a world!
+  <strong><u>Before You Continue</u></strong> 
+  <br>
+  Make sure you are comfortable with navigating the editor and switching between camera modes. Advance to the next section to start adding to your world!
 </div>

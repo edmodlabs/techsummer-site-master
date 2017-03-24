@@ -60,13 +60,13 @@ Where you place your user determines the rules of your world. In Vizor, you can 
 
 <br>
 
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Do It Yourself!</strong> 
   </div>
   <ul> 
   	<li>Change the story or meaning of your Vizor projects by altering the object sizes. </li>
-  	<li>Reposition objects to make sure users enjoy and understand your experience. </li>
+  	<li>Reposition objects to make sure users enjoy and understand your world.</li>
   	<li>Move the VR camera to change your user's experience. </li>
   	<li>Run wild with your own techniques and ideas! The VR space is so new you could discover a new design tip! </li>
   </ul>

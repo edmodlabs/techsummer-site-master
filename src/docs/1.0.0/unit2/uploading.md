@@ -11,7 +11,7 @@ Time to view your 360 images!
 
 ## Viewing Your 360 Worlds 
 
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Try It Yourself!</strong> 
   </div>
@@ -27,7 +27,7 @@ Time to view your 360 images!
 
 Now, let's view the images!
 
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Try It Yourself!</strong> 
   </div>
@@ -35,12 +35,15 @@ Now, let's view the images!
   <ul> 
   	<li>Open the Vizor [360 image viewer](http://360.vizor.io/). </li>
   	<li>Drag and drop the image you want to view into the window. </li>
-  	<li>Click "Enter VR" and put on the Oculus Rift. </li>
+  	<li>Click the "Enter VR" button (represented by the icon that looks like binoculars) and put on the Oculus Rift. </li>
   </ul>
 </div>
 
 How did the three images of different heights look and feel? After viewing them in an Oculus Rift, you should have a better idea of how scale works in virtual reality. 
 
 <div class="alert_green">
-  <strong>Continue!</strong> Go to the next section to share your images and finish the project!
+  <div style="text-align:center">
+    <strong><u>Before You Continue</u></strong> 
+  </div>
+  Make sure you can capture and view 360 images.
 </div>

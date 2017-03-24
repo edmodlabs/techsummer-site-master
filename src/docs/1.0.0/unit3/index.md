@@ -8,13 +8,13 @@ order: 1
 section_order: 4
 ---
 <hr>
-Welcome to the **Vizor Starter Project**! Read the following points before you get started.
+Welcome to the **Vizor Starter Project**! Read the following details before you get started.
 
 ## Project Goals
-Let's jump into the world of VR development! By the end of the project, you will:
-* See how computer graphics and VR can be used to create anything you can imagine.
-* Use a platform named Vizor to build a virtual world you can share with anyone.
-* See hands-on tips on how to design virtual worlds from engineers at Facebook.
+Let's jump into the world of VR development! If you complete the whole project, you will understand:
+* How computer graphics and VR can be used to create digital experiences.
+* How to use a platform named Vizor to build a virtual world you can share with anyone.
+* Key tips on designing virtual worlds from engineers at Facebook.
 
 Here's an example of what you'll build. Hit play, then click and drag to look around.
 <div style="text-align:center">
@@ -22,8 +22,7 @@ Here's an example of what you'll build. Hit play, then click and drag to look ar
 	<strong> "Lucia's World" - An Island World Created and Shared by a TechStart Student in California
 </div>
 
-## Requirements and Suggestions
-
+## Requirements
 * The project is designed to be completed by individual students, not teams, and should take 40-60 minutes.
 * Vizor is most easily used with a mouse.
 * Vizor projects are most exciting in VR! To use VR with Vizor, you'll need a computer with VR and WebVR installed. Check the [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) section if you're not sure if your computer is ready.
@@ -59,5 +58,7 @@ Vizor and VR use computer graphics, also known as CG. CG is a field of computer 
 <br>
 
 <div class="alert_green" style="text-align:center">
-  <strong>Continue!</strong> Click the link below to get started!
+  <strong><u>Before You Continue</u></strong>
+  <br>
+  Make sure your computer is setup up for VR and you can view WebVR projects. Click the button below to dive in!
 </div>

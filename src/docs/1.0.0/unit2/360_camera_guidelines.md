@@ -27,7 +27,7 @@ Images outside in daylight will look best, but if using the camera inside turn o
   <div style="text-align:center">
   	<strong>Remote Setup</strong> 
   </div>
-	The Ricoh Theta has an option to work remotely from a smartphone.  TechStart does not supply one, but if you have access to a smartphone and would like to remotely use the camera, you can by following the next two steps.
+	The Ricoh Theta has an option to work remotely from a smartphone.  TechStart does not supply one, but if you have access to a smartphone and would like to remotely use the camera, you can try by following these steps:
   <ul> 
   	<li>Configure the camera's [wifi mode.](https://theta360.com/en/support/manual/content/prepare/prepare_06.html) </li>
   	<li>Use the Ricoh Theta smartphone app on your device to [operate the camera.](https://theta360.com/en/support/manual/content/shooting/shooting_02.html) </li>
@@ -36,7 +36,7 @@ Images outside in daylight will look best, but if using the camera inside turn o
 </div>
 
 ## Illusions of Scale
-Virtual reality tricks your brain.  Your eyeballs work hard to perceive the world at a certain *scale*. Sometimes your brain is wrong, like with an optical illusion.  Check out this image. Do the objects look like different sizes?
+Virtual reality tricks your brain.  Your eyeballs work hard to perceive the world at a certain **scale**. Sometimes your brain is wrong, like with an optical illusion.  Check out this image. Do the objects look like different sizes?
 
 <div style="text-align:center">
 	<img src="/images/docs/360_images/optical_illusion.jpg" width="50%" height="50%">
@@ -46,7 +46,7 @@ Initially they do, but if you look closely they are the same size.  Scale matter
 
 <div class="alert_green">
   <div style="text-align:center">
-  	<strong>Try It Yourself!</strong> 
+  	<strong><u>Before You Continue</u></strong> 
   </div>
 	Time to play with scale using 360 images. Use the camera to take the following three types of images then continue to the next section.
   <ul> 

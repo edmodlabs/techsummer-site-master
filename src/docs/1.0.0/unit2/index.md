@@ -11,16 +11,19 @@ section_order: 3
 Welcome to the **360 Image Project**! Read the following details before you get started.
 
 ## Project Goals
-By the end of the project, you will:
-* Use a 360-degree camera called the Ricoh Theta S to capture images.
-* Understand how 360-degree images work and how they differ from other types of images.
-* Upload your captured images from the camera and view them in an Oculus Rift VR device and online in a browser.
+By the end of the project, you will understand:
+* How to use a 360 camera called the Ricoh Theta S to capture images.
+* How 360 camera position effects scale in VR.
+* How to upload your captured images from the camera to view in a VR headset and online in a browser.
 
-## Requirements and Suggestions
-* The project should take approximately 40-60 minutes and is designed to be completed by a single student, ideally the designated TechStart Student Innovator if you are in a school.
+## Requirements
+* The project should take approximately 40-60 minutes and is designed to be completed by a single individual, ideally the designated TechStart Student Innovator if you are in a school.
+* To view your images, you'll need a computer with VR and WebVR installed. Check the [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) section if you're not sure if your computer is ready.
 * Access to a Ricoh Theta S and camera stand.
 
 <div class="alert_green" style="text-align:center">
-  <strong>Continue!</strong> Click the link below to get started!
+  <strong><u>Before You Continue</u></strong> 
+  <br>
+  Make sure you have installed WebVR and have a Ricoh Theta S with a camera stand. Click the button below to dive in!
 </div>
 

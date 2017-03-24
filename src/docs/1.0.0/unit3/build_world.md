@@ -35,7 +35,7 @@ If you do not see the Patches Menus, click the “Patches” button in the Vizor
 
 Now let's add an object to your world!
 
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Do It Yourself!</strong> 
   </div>
@@ -94,10 +94,10 @@ Now you're all set to start building your first virtual world!
 
 <div class="alert_green">
   <div style="text-align:center">
-  	<strong>Do It Yourself!</strong> 
+  	<strong><u>Before You Continue</u></strong> 
   </div>
   <ul> 
-  	<li>Add at least 5 objects to your scene and modify the objects as much as you want. Try the different options in the Objects menu! </li>
+  	<li>Add at least 5 objects to your scene and modify the objects as much as you want. Try the many different options in the Objects menu! </li>
   	<li>Make a scene you would be happy to show your friends. </li>
   	<li>Once you are ready, go to the next section to view and publish your project. </li>
   </ul>

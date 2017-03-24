@@ -12,7 +12,7 @@ Let's jump right in and capture your first 360-degree image!
 <div style="text-align:center">
 	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/360-world" ></script>
 	<br>
-	<strong>An example 360 selfie - ON A BOAT!</strong>
+	<strong>An example 360 selfie - ON A BOAT! Press play to view.</strong>
 </div>
 
 ## Hello 360 World!
@@ -28,7 +28,7 @@ Grab the Ricoh Theta S camera provided by TechStart. If you have not already, un
 ## 360 Camera Operation
 The camera will work out of the box, but should be charged as soon as possible.  Always charge the camera while not in use.  
 
-<div class="alert_green">
+<div class="alert_red">
   <div style="text-align:center">
   	<strong>Do It Yourself!</strong> 
   </div>
@@ -51,6 +51,8 @@ The camera will work out of the box, but should be charged as soon as possible. 
 You just captured your first 360 image!
 
 <div class="alert_green" style="text-align:center">
-  <strong>Continue!</strong> You'll now learn 360 camera tips!
+  <strong><u>Before You Continue</u></strong>
+  <br>
+  Make sure you can turn on your camera and take a picture. Listen for the funky sound effect when you take a picture!
 </div>
 

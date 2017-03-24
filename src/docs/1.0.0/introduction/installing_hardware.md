@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-## What Hardware is included in the virtual reality offering?
+## What hardware is included in the virtual reality offering?
 TechStart's VR offering includes the following items:
 * One Starter Kit documenting how to use TechStart equipment in a school.
 * One Oculus-Ready computer that meets the Oculus minimum specs and is approved by Oculus IT.
@@ -21,7 +21,7 @@ TechStart's VR offering includes the following items:
 
 No further equipment is needed to complete the TechStart projects.
 
-## Setup instructions
+## Setup Instructions
 
 <iframe src="https://docs.google.com/presentation/d/1k_yq8TJoVs_PdRIlrozSie5fnfcaAsG9P5oM3vJve6Y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
