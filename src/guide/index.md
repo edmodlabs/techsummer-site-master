@@ -28,11 +28,11 @@ Use the side bar at the top of the page to navigate.
 In text, important words are often displayed in **bold** font. The following alerts will also be displayed to help you distinguish between different types of content.
 
 <div class="alert_red">
-  <strong>Warning</strong> - Indicates an important warning or point.
+  <strong>Warning and Important Steps</strong> - Indicates an important warning or important steps.
 </div>
 <br/>
 <div class="alert_green">
-  <strong>To Do</strong> - Indicates steps that should be completed before proceeding.
+  <strong>Before You Continue</strong> - Indicates what must be completed before proceeding to the next section of a guide.
 </div>
 <br/>
 <div class="alert_yellow">
