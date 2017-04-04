@@ -25,7 +25,7 @@ The following should be completed on the VR-ready computer to install WebVR.
   WebVR enables your browser to control a virtual scene and send information to your headset so you can view the scene. Many browsers (Google Chrome, Firefox Nightly, Internet Explorer, etc.) were not built for VR, so new browsers must be used.
 </div> 
 
-We will use FireFox Nightly, also known as Nightly. The following instructions are adapted from Mozilla VR's [Getting Started](https://mozvr.com/#start) guide.
+We will use Firefox Nightly, also known as Nightly. The following instructions are adapted from Mozilla VR's [Getting Started](https://mozvr.com/#start) guide.
 
 1. Download and install <a href="https://archive.mozilla.org/pub/firefox/nightly/2017/03/2017-03-01-03-02-02-mozilla-central/firefox-54.0a1.en-US.win64.installer.exe">Nightly</a>.
 2. Open Nightly and disable updates by navigating to **Updates** in the **Advanced** section of Nightly's **Preferences** page. The video below shows how to disable updates.

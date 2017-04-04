@@ -27,7 +27,7 @@ If you do not see the Patches Menus, click the “Patches” button in the Vizor
 <br>
 
 <div class="alert_red" style="text-align:center">
-  <strong>Remembet to hit "Tab" if your Editor ever looks like the following. We will cover Patches and programming in later projects.</strong>
+  <strong>Remember to hit "Tab" if your Editor ever looks like the following. We will cover Patches and programming in later projects.</strong>
   <img src="/images/docs/intro_vizor/patches.png">
 </div>
 

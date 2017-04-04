@@ -40,7 +40,7 @@ One way is to place important objects close, and others far away. Another strate
 
 <div style="text-align:center">
 	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techstart/vizor_lesson_placement_cone_spiders" ></script>
-	<strong>Try the world above. Did you notice the giant spiders marching behind you? Probably not. The most important objects should be in front.</strong> 
+	<strong>Try the world above. Did you notice the giant spiders marching behind you? Probably not. The most important objects should be in front of your user.</strong> 
 </div>
 
 ## Positioning Your User

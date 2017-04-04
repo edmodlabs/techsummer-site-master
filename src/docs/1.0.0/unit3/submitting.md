@@ -62,7 +62,7 @@ Congratulations! You've completed your first VR project. Now's a great time to r
 * How computer graphics and VR can be used to create digital experiences.
 * How to use a platform named Vizor to build a virtual world you can share with anyone.
 
-Stay tuned for more projects from TechStart. We'll soon add projects that let you use code to create interactive and more customized worlds! Don't want to wait? Check out [tutorials built by the Vizor team.](http://blog.vizor.io/tag/tutorials/)
+Stay tuned for more projects from TechStart. We'll soon add projects that let you use code to create interactive and more customized worlds! Don't want to wait? Check out [video](https://www.youtube.com/playlist?list=PLL0Qt-QS9kmTNhmYOMOvy0XMyvzdAdFnX) and [written](https://blog.vizor.io/) tutorials built by the Vizor team.
 
 <div class="alert_yellow">
   <div style="text-align:center">
