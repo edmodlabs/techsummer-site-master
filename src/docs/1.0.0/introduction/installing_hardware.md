@@ -8,6 +8,10 @@ parent_section: introduction
 toc: true
 ---
 
+## Table of Contents
+1. [Installing Firefox Nightly](#what-hardware-is-included-in-the-virtual-reality-offering)
+2. [Setup Instructions](#setup-instructions)
+3. [Support](#support)
 
 ## What hardware is included in the virtual reality offering?
 TechStart's VR offering includes the following items:
