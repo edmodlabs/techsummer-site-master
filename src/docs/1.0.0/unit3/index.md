@@ -39,7 +39,7 @@ Below are projects that use code to build interactive experiences. To build thes
 	<strong> A Museum of Lions. Click on points to teleport. </strong>
 </div>
 
-You can view more projects on the [Vizor homepage](https://vizor.io/).
+You can view more projects on the [Vizor homepage](https://patches.vizor.io/).
 
 ## Requirements
 * The project is designed to be completed by individual students, not teams, and should take 40-60 minutes.
