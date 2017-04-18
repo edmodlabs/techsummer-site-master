@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: 360 Getting Started 
 section_title: 360 Image Project
 type: unit2
 layout: docs

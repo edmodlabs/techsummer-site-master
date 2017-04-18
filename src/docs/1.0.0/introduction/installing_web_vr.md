@@ -7,6 +7,8 @@ order: 3
 parent_section: introduction
 toc: true
 ---
+
+
 <br>
 <div class="alert_red">
   <div style="text-align:center">
@@ -14,6 +16,11 @@ toc: true
   </div>
   WebVR can only be used on VR-ready computers and smartphones. TechStart provides VR-ready computers to eligible schools and organizations, and most smartphones work with WebVR by simply visiting the URL of a WebVR project.
 </div> 
+
+## Table of Contents
+1. [Installing Firefox Nightly](#installing-firefox-nightly)
+2. [Testing](#how-do-i-know-webvr-is-ready)
+
 
 ## Installing Firefox Nightly
 The following should be completed on the VR-ready computer to install WebVR. 

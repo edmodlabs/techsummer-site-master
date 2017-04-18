@@ -1,5 +1,5 @@
 ---
-title: Extensions
+title: 360 Extensions
 section_title: Extensions
 type: unit2
 layout: docs
