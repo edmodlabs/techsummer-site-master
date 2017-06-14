@@ -5,7 +5,7 @@ type:  unit3
 layout: docs
 parent_section: docs
 order: 1
-section_order: 4
+section_order: 3
 ---
 <hr>
 Welcome to the **Vizor Starter Project**! Read the following details before you get started.

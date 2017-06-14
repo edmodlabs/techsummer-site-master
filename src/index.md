@@ -1,32 +1,29 @@
 ---
-title: Welcome
+title: Welcome to TechSummer
 type: community
 layout: page
 ---
 <hr>
-
-TechStart, powered by Facebook, is a nationwide initiative striving to modernize education through technology. Our newest offerings focus on empowering students to explore the limitless potential of virtual reality using Vizor and 360 media.
-
-## Site Content
-* [Projects](/docs) - Start creating virtual reality content with step-by-step projects.
-* [FAQS](/faq) - Check frequently asked questions.
-* [Community](/community) - Check out links to helpful resources from around the web.
-* [Support](https://support.oculus.com/) - Contact Oculus Support.
-
-## Vizor and 360 Media
-Vizor is a browser-based, creative platform for VR. Using Vizor, anyone can easily create and share both virtual and 360 content. Check out the following projects for an idea of what you could make if you dive into Vizor!
-
 <div style="text-align:center">
 	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/fthr/exploding-rocket-5" ></script>
-	<strong>Enjoy an environment composed of music and moving objects.</strong> 
+	<strong>You will be creating interactive narratives in Virtual Reality like this.</strong> 
 </div>
+ 
+ Welcome to TechSummer! Congratulations on being selected for this program. You were handpicked to contribute your **creativity**, **voice**, and **vision** to a community of creators. We are extremely excited to see the worlds you create and the stories you will tell. 
 
-<br>
 
-<div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/examples/360-photo" ></script>
-	<strong>Be immersed in a bustling city.</strong> 
-</div>
+ TechSummer is all about **creation**. Our goal is to give you the tools to **express your vision**. Follow the steps bellow to get started!
+
+## Techsummer Outline
+1. [DIY VR KIT Assembly](/docs) - Build and use your own VR headset. 
+2. [Vizor Tutorials](/docs) - Create an interactive virtual reality experience using computer graphics.
+3. [360 Video Tutorials](/docs) - Capture the real world in 360.
+4. [StoryCasts](/docs) - Build an interactive narrative with 3 scenes: beggining, middle, and end.
+
+
+
+
+
 
 Website source code adopted from the incredible [@aframe](https://aframe.io) [site](https://github.com/aframevr/aframe-site)
  and [@vuejs](https://vuejs.org) [site](https://github.com/vuejs/vuejs.org/).

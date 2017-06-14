@@ -1,12 +1,11 @@
 ---
-title: Introduction
-section_title: DIY VR KIT
-type:  diyvr
+title: StoryCast Introduction 
+section_title: StoryCasts
+type:  unit4
 layout: docs
 parent_section: docs
 order: 1
-section_order: 1
-
+section_order: 4
 ---
 
 <hr>

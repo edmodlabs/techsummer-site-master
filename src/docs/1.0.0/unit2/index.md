@@ -5,7 +5,7 @@ type: unit2
 layout: docs
 parent_section: docs
 order: 1
-section_order: 3
+section_order: 2
 ---
 <hr>
 Welcome to the **360 Image Project**! Read the following details before you get started.

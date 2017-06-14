@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo
 
 # Site
-title: TechStart
-subtitle: Creating Opportunities Through Computer Science
-description: "Creating opportunities through Computer Science"
-author: TechStart
+title: TechSummer
+subtitle: "TODO: subtitle"
+description: "TODO: description"
+author: TechSummer
 email: aframe@mozilla.com
 language:
 robots: all
@@ -19,7 +19,7 @@ theme_color: black
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://techstart.github.io
+url: https://techsummer.github.io
 root: /
 permalink: blog/:title/
 tag_dir: tags
@@ -118,7 +118,7 @@ browsersync:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:techstart/techstart.github.io
+  repository: git@github.com:techsummer/techsummer.github.io
 
 disqus_shortname:
 twitter:
@@ -130,17 +130,17 @@ segment_analytics: O0Trhcd2h1sVKasfJHP5JHVRZUJ8Nwev
 
 github:
   aframe:
-    username: techstart
+    username: techsummer
     repo: TechStart-Site
-    url: https://github.com/techstart/TechStart-Site
+    url: https://github.com/techsummer/techsummer-site-master
   aframe_site:
-    username: techstart
-    repo: TechStart-Site
-    url: https://github.com/techstart/TechStart-Site
+    username: techsummer
+    repo: techsummer-site-master
+    url: https://github.com/techsummer/techsummer-site-master
 
 aframe_lib:
-  home_url: https://techstart.github.io
-  examples_url: https://techstart.github.io
+  home_url: https://techsummer.github.io
+  examples_url: https://techsummer.github.io
 
 facebook:
   techstart:
