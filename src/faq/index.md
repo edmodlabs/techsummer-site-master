@@ -5,30 +5,20 @@ layout: page
 toc: true
 ---
 
-## What age range is appropriate for the VR Kit?
-The VR headset is not for use by children under age 13 according to the official health and safety warning. 
+## What if I cannot join the TechSummer Facebook group?
+The [TechSummer Facebook group](facebook.com/groups/techsummer) is the best place to stay tuned about TechSummer. If you cannot join the group, we will send you important info via email and you can still complete the entire program via the [TechSummer Github](techsummer.github.io).
 
-## What equipment does TechStart provide to qualifying schools?
-TechStart is currently supporting a VR offering that provides schools the following:
-* One Starter Kit documenting how to use TechStart equipment in a school.
-* One Oculus-Ready computer that meets the Oculus minimum specs and is approved by Oculus IT.
-* Mouse and Keyboard
-* One Oculus Rift
-* One 24” Monitor
-* One Ricoh Theta S 360 Camera
-* One Camera Stand
+## What will I learn from TechSummer?
+You'll learn how to build a VR viewer and tell a VR story using an online platform named Vizor. Expect to exercise your creative and technology skills. You can also come to office hours to ask technology questions to our team at Facebook!
 
-Have ideas for other offerings you'd like to see from TechStart? Let us know at <techstart@fb.com>!
-
-## How will the equipment be used? 
-We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the VR kit into their classrooms.
+## What if I have never written code before? 
+Don't sweat it! TechSummer only assumes you have an interest in learning technology skills. Vizor uses a visual programming tool so you can get a first taste of programming and go even deeper if you want to create more complex experiences.
  
-## How could we evaluate its use?
-It is important to us that teachers themselves to evaluate how successful the VR Kit is for their classrooms
-as well as students. We will be sending over surveys assessing the experience at various times and welcome as much ongoing feedback as possible.
- 
-## Are there any ongoing expenses or upkeep?
-There are no costs to maintaining the VR Kit. However, TechStart isn’t responsible for damages or repairs to the kit. The PC has a 1 year warranty and the virtual reality headset can be serviced via the customer service department at oculus. The equipment we are donating is expensive and sensitive to damage, so it is important to take the necessary precautions to keep the equipment undamaged as you see appropriate.
+## Where can I ask questions or get help?
+Here are the steps to getting you what you need:
+1. Post in the [TechSummer Facebook group](facebook.com/groups/techsummer). 
+2. Did posting in the group not work out? Come to office hours! 
+3. When all else fails, email the TechSummer team at techsummer@fb.com.
 
 [aframe-react]: https://github.com/ngokevin/aframe-react
 [archive3d]: http://archive3d.net/
