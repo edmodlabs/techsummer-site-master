@@ -13,6 +13,7 @@ Here are the steps to getting you what you need:
 
 2. Did posting in the group not work out? Come to office hours! 
 
+3. Send an email to TechSummer@fb.com
 
 ## Should I use this website or the Facebook Group for materials?
 The [TechSummer Facebook group](facebook.com/groups/techsummer) is the best place to stay tuned about TechSummer. If you cannot join the group, we will send you important info via email and you can still complete the entire program via the [TechSummer Github](techsummer.github.io).
