@@ -4,7 +4,10 @@ var links = [
 
   {
     url: docs_root_path(site.pages, config.aframe_version),
-    text: 'PROJECT'
+    text: 'PROJECT',
+    slug: 'docs',
+    title: 'docs'
+
   },
 
   {
@@ -33,7 +36,7 @@ links = links.map(function (link) {
     if (!page.nav_slug && page.canonical_path.match(new RegExp(link.url))) {
       link.current = true;
     }
-    if (link.text === 'Docs' && page.path.indexOf('docs/') === 0) {
+    if (link.text === 'PROJECT' && page.path.indexOf('docs/') === 0) {
       link.current = true;
       link.disabled = true;
     }

@@ -1,11 +1,11 @@
 ---
-title: Getting Started
-section_title: Vizor Starter Project
+title: 3.1) Juggling Scenes and Objects
+section_title: 3) Objects Galore
 type:  unit3
 layout: docs
 parent_section: docs
 order: 1
-section_order: 3
+section_order: 4
 ---
 <hr>
 Welcome to the **Vizor Starter Project**! Read the following details before you get started.
