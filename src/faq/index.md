@@ -5,30 +5,22 @@ layout: page
 toc: true
 ---
 
-## What age range is appropriate for the VR Kit?
-The VR headset is not for use by children under age 13 according to the official health and safety warning. 
+## I am having issues with my VR Kit What should I do?
+We are here to help and we want to here about your issues! The fastest way recieve support is to post your questions to the [Facebook Group](https://www.facebook.com/groups/techsummer). 
 
-## What equipment does TechStart provide to qualifying schools?
-TechStart is currently supporting a VR offering that provides schools the following:
-* One Starter Kit documenting how to use TechStart equipment in a school.
-* One Oculus-Ready computer that meets the Oculus minimum specs and is approved by Oculus IT.
-* Mouse and Keyboard
-* One Oculus Rift
-* One 24” Monitor
-* One Ricoh Theta S 360 Camera
-* One Camera Stand
 
-Have ideas for other offerings you'd like to see from TechStart? Let us know at <techstart@fb.com>!
+We prefer to answer questions on the Facebook Group so everyone can see the solutions. Chances are if you are running into something, others are as well.
 
-## How will the equipment be used? 
-We provide instructions to get started experiencing and creating virtual reality. It is up to the teachers themselves to decide and innovate on how they would like to integrate the VR kit into their classrooms.
- 
-## How could we evaluate its use?
-It is important to us that teachers themselves to evaluate how successful the VR Kit is for their classrooms
-as well as students. We will be sending over surveys assessing the experience at various times and welcome as much ongoing feedback as possible.
- 
-## Are there any ongoing expenses or upkeep?
-There are no costs to maintaining the VR Kit. However, TechStart isn’t responsible for damages or repairs to the kit. The PC has a 1 year warranty and the virtual reality headset can be serviced via the customer service department at oculus. The equipment we are donating is expensive and sensitive to damage, so it is important to take the necessary precautions to keep the equipment undamaged as you see appropriate.
+
+## Should I use this website or the Facebook Group for materials?
+We reccomend the [Facebook Group](https://www.facebook.com/groups/techsummer) for more upto date instructions and exciting suplemental material. If you cannot use the Facebook group, you follow along using this site.
+
+
+## Who Should and Shouldn't use the VR Headset?
+Health and Saftey  forbids anyone from under 13 from using the headset.
+
+## Do I get to keep the VR Viewers after the program is done?
+Absolutely. These VR Viewers are yours to keep forever and customize as you see fit.
 
 [aframe-react]: https://github.com/ngokevin/aframe-react
 [archive3d]: http://archive3d.net/
