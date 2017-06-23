@@ -1,11 +1,11 @@
 ---
-title: 360 Getting Started 
-section_title: 360 Image Project
+title: 2.1) What If…Penguins?
+section_title: 2) Never Sacrifice Story
 type: unit2
 layout: docs
 parent_section: docs
 order: 1
-section_order: 2
+section_order: 3
 ---
 <hr>
 Welcome to the **360 Image Project**! Read the following details before you get started.

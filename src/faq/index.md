@@ -23,8 +23,6 @@ Health and Saftey  forbids anyone from under 13 from using the headset.
 ## Do I get to keep the VR Viewers after the program is done?
 Absolutely. These VR Viewers are yours to keep forever and customize as you see fit.
 
-## What if I cannot join the TechSummer Facebook group?
-
 
 ## What will I learn from TechSummer?
 You'll learn how to build a VR viewer and tell a VR story using an online platform named Vizor. Expect to exercise your creative and technology skills. You can also come to office hours to ask technology questions to our team at Facebook!
