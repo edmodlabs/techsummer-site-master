@@ -15,7 +15,7 @@ A Storycast is about bringing virtual life to your voice by learning computer gr
 Techniques you learn through a Storycast are commonly employed by animation studios such as Pixar, Dreamworks, and Lucasfilm.  You’ll borrow strategies from industry-leading organizations and learn how to combine proven storytelling skills with cutting edge VR applications.  
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1_1.jpeg">
+	<img src="/images/techsummer/Unit1/Docs/introduction/1_1.jpeg">
 	<br>
 	<strong>Build the Zootopia you wish you see in the world.</strong>
 </div>
