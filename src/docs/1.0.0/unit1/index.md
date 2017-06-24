@@ -14,7 +14,12 @@ section_order: 2
 In this activity, you will assemble your very own customizable VR Viewer and learn about the technology underlying VR. VR is like great food: you could talk about it for days, but you really need to try it to understand why it’s great. So, let’s jump in!
 
 ## Assembly
-Follow the steps below to assemble your viewer.
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>ASSEMBLE!!!</strong>
+  </div> 
+  Follow the steps below to assemble your VR Viewer.
+</div>
 
 <div style="text-align:center">
 	<img src="/images/techsummer/Unit1/FinalizedImages800x600/PartsOverView.png">
