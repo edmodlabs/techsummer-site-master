@@ -37,7 +37,7 @@ By the end of the program, you should have a complete Storycast project you can 
 ### Accessing the Guide
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1-4.png">
+	<img src="/images/techsummer/Unit1/Docs/introduction/1-4.png">
 	<br>
 	<strong>You can only see the project guide while in the "Project" section. If you ever get lost, click on the link to go back to the guide. </strong>
 </div>
@@ -47,7 +47,7 @@ By the end of the program, you should have a complete Storycast project you can 
 ### Navigating Guide Sections
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1-2.png">
+	<img src="/images/techsummer/Unit1/Docs/introduction/1-2.png">
 	<br>
 	<strong>Each Storycast unit contains multiple activities. Complete each activity before moving to the next one.</strong>
 </div>

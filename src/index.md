@@ -41,7 +41,7 @@ TechSummer is all about **creation**. Our goal is to give you the tools and supp
 Links to the main sections of the site are on the top left.
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/SiteInstructions/1_2.png">
+	<img src="/images/techsummer/Unit1/SiteInstructions/1_2.png">
 </div>
 
 - [PROJECT](/docs): Get all info for your Storycast project!
@@ -54,7 +54,7 @@ Links to the main sections of the site are on the top left.
 3D graphics applications are embedded throughout the site. Click on the play button to test the applications in your web page. 
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/SiteInstructions/1_3.png">
+	<img src="/images/techsummer/Unit1/SiteInstructions/1_3.png">
 </div>
 
 <hr>
@@ -62,7 +62,7 @@ Links to the main sections of the site are on the top left.
 Links appear in light blue, just like on most websites. Click on links to visit new pages.
 
 <div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/SiteInstructions/1-1.png">
+	<img src="/images/techsummer/Unit1/SiteInstructions/1-1.png">
 </div>
 
 <hr>
