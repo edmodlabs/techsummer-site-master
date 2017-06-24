@@ -5,8 +5,8 @@ layout: page
 ---
 <hr>
 <div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/fthr/exploding-rocket-5" ></script>
-	<strong>You will be creating interactive narratives in virtual reality like this.</strong> 
+	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/techsummer/birds-feather" ></script>
+	<strong>You will be creating interactive virtual reality narratives in virtual reality!</strong> 
 </div>
 
 Congratulations on being selected for TechSummer! You were handpicked to share your **creativity**, **voice**, and **vision** to a community of creators. We are extremely excited to see the worlds you create and stories you tell. 
