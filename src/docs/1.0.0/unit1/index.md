@@ -9,82 +9,97 @@ section_order: 2
 
 ---
 
+## Overview
 
+In this activity, you will assemble your very own customizable VR Viewer and learn about the technology underlying VR. VR is like great food: you could talk about it for days, but you really need to try it to understand why it’s great. So, let’s jump in!
 
-
-
-## Overview of StoryCasts
-
-A Storycast is about bringing virtual life to your voice by learning computer graphics and storytelling skills.  Think about a story that could be told next to a roaring fire or under a starry night sky.  It could be about a dramatic personal experience, the history of an event in your community, or a fictional hero’s adventure.  With a Storycast, you create the environment, characters, and situations to shape an immersive world using the emerging field of virtual reality storytelling! 
-
-Techniques that you learn through a Storycast are commonly employed by animation studios such as Pixar, Dreamworks, or Lucasfilm.  You’ll borrow strategies from industry-leading organizations and learn how to combine proven storytelling skills with cutting edge virtual reality applications.  
-
-
-<div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1_1.jpeg">
-	<br>
-	<strong>Build the Zootopia you wish you see in the world.</strong>
-</div>
-
-
-A Storycast is a virtual reality (VR) story told in three parts: a beginning, middle, and end. It contains a voice-over from the narrator (that's YOU!) and uses 3D graphics in a web platform called Vizor.  Vizor uses computer graphics (CG) and provides a visual interface to build on top of technologies such as WebGL and WebVR. CG is a field of computer science used to create art, models, animations, films, games, and more.  VR storytelling is brand new, and even companies like Facebook are still discovering how it works. As part of the Storycast program, you will be an important part of pioneering the new process of storytelling using virtual reality!
-
-## How to Use these instructions
-
-### How instructions are organized
-
-<div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1-2.png">
-	<br>
-	<strong>The entire Story project is organized into 4 "units" organized on the left hand side of the page.</strong>
-</div>
-<br>
-
-<div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1-3.png">
-	<br>
-	<strong>Every unit has multiple "activities". Make sure to complete every activity before moving onto the next one. </strong>
-</div>
-<br>
-
-<div style="text-align:center">
-	<img src="/images/techsummer/DIYVR/Docs/introduction/1-4.png">
-	<br>
-	<strong>You can only see the project content when you are in the "Project" section of the site. If you ever get lost, click on that link to go back to instructions. </strong>
-</div>
-<br>
-
-
-
-### Asides
-
-When reading instructions, we have special sections we call "asides". Different colors mean different things.
-
-
-
+## Assembly
 <div class="alert_green">
   <div style="text-align:center">
-  	<strong>Social Activities</strong>
+  	<strong>ASSEMBLE!!!</strong>
   </div> 
-  These represent the most fun part of the program. These are social activities to share your ideas, work, and creativity with other students in the program. To participate in these you must be signed up for [The TechSummer Facebook Group](https://www.facebook.com/groups/techsummer)
+  Follow the steps below to assemble your VR Viewer.
 </div>
-<br>
-<div class="alert_red">
-  <div style="text-align:center">
-  	<strong>Warnings</strong>
-  </div> 
-  Red Asides represent important warnings related to the completion of your project. Never skip these.
+
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/PartsOverView.png">
+	Overview of Assembly Pieces
 </div>
-<br>
+
+1. Grab the <i>DIY VR Kit</i> and unbox all the parts.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/Gifs/unbox.gif">
+</div>
+To assemble the viewer, make sure you have the following: <i>1 Right Lens Holder, 1 Left Lens Holder, 2 Phone Holders, 2 Lenses, 1 Base, 1 Cover, 4 Screws, 4 Nuts, 2 Pin Holders, 1 Screwdriver.</i>
+
+2. Place each Lens in any Lens Holder.  Align the three Lens tabs with the three open tabs on the Lens Holder, push the Lens into place, and twist to secure the Lens.  The more round side of each Lens should face toward the part of the Lens Holder with the open tabs.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-1-1.png">
+</div>
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-1-2.png">
+</div>
 <div class="alert_yellow">
   <div style="text-align:center">
-  	<strong>Pro Tips</strong>
+  	<strong>VR Lenses</strong>
   </div> 
-  Yellow Asides represent information we find particularly cool about a topic. This is a good opportunity to go more in depth into a topic and give tips for students who are interested in diving further into the materials.
+  The lenses are <i>biconvex lenses</i> because each side is round. Biconvex lenses focus light and images.  On your VR viewer, the lenses will focus the image from your phone's screen.  Pop out your lenses later to see why that matters.
 </div>
-<br>
 
+3. Place the Left Lens Holder into the Base's left side and the Right Lens Holder into the Base's right side. The more round side of each Lens must be face up.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-2-1.png">
+</div>
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-2-2.png">
+</div>
 
+4. Place the Cover on top of the Base with the Lens Holders sandwiched in the middle.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-3-3.png">
+</div>
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-4-final.png">
+</div>
 
+5. Place Phone Holders on top of the Cover. There is a hole on the Phone Holder pieces so they can slide onto protruding nubs on the Cover.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-4-1.png">
+</div>
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-4-2.png">
+</div>
 
+6. Place each Pin Holder on top of the Cover. Protruding nubs on the Pin Holder should slide into holes on the top of the Phone Holder. Also, protruding nubs on the Cover will help you to keep the Pin Holder in place.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-5-1.png">
+</div>
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-5-2.png">
+</div>
 
+7. Push Screws through the holes on the bottom corners of the Cover. The Screw should go all the way through the Cover and Base. Use the Screwdriver if necessary and fasten nuts to the other end by hand.  If you want to fasten a nut even more, hold the nut in place while screwing the Screws.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-6.png">
+</div>
+
+8. Repeat the instructions above for the holes at the top of the Cover. Each Screw should go through a Pin Holder, the Cover, and the Base.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2-7.png">
+</div>
+
+9. Ensure the Phone Holders can swivel in and out and that your entire viewer is bound together.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/FinalizedImages800x600/2_7_5.png">
+</div>
+<div class="alert_yellow">
+  <div style="text-align:center">
+  	<strong>Focal Distance</strong>
+  </div> 
+  The Lenses have a <i>focal distance</i> of approximately 40mm which means the Lenses bring an image into focus at about 40mm.  For any VR viewer, the distance from the lenses to the screen should roughly match the focal distance. 
+</div>
+
+10. Congratulations - you built your own VR Viewer!  Use the felt pouch when carrying your viewer in a backpack or your pocket to avoid scratching the lenses.
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit1/Gifs/AssemblyGif.gif">
+</div>

@@ -30,7 +30,7 @@
     "yaml-cat": "^0.3.2"
   },
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.3.7"
   },
   "scripts": {
     "bumpdocs": "rm -rf .multidep/aframe-v0.3.0 && npm install aframevr/aframe#master && multidep multidep.json",
