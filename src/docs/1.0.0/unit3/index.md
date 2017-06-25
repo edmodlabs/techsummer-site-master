@@ -3,7 +3,7 @@ title: 3.1) Juggling Scenes and Objects
 section_title: 3) Objects Galore
 type:  unit3
 layout: docs
-parent_section: docs
+parent_section: 
 order: 1
 section_order: 4
 ---
