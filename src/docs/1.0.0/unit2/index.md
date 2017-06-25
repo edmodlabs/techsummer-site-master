@@ -7,23 +7,42 @@ parent_section: docs
 order: 1
 section_order: 3
 ---
-<hr>
-Welcome to the **360 Image Project**! Read the following details before you get started.
 
-## Project Goals
-By the end of the project, you will understand:
-* How to use a 360 camera called the Ricoh Theta S to capture images.
-* How 360 camera position effects scale in VR.
-* How to upload your captured images from the camera to view in a VR headset and online in a browser.
+## Overview
 
-## Requirements
-* The project should take approximately 40-60 minutes and is designed to be completed by a single individual, ideally the designated TechStart Student Innovator if you are in a school.
-* To view your images, you'll need a computer with VR and WebVR installed. Check the [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) section if you're not sure if your computer is ready.
-* Access to a Ricoh Theta S and camera stand.
+At the end of Unit 1, we learned Vizor fundamentals and how scale effects storytelling. Now it's time to generate story ideas! 
 
-<div class="alert_green" style="text-align:center">
-  <strong><u>Before You Continue</u></strong> 
-  <br>
-  Make sure you have installed WebVR and have a Ricoh Theta S with a camera stand. Click the button below to dive in!
+## Ideation
+
+Most stories on every medium (books, movies, and games) are all built by constructing <i>world</i> and <i>character</i>.  A world is the environment and set of rules the story universe takes places in, like a mad science lab with futuristic technology.  A character is a central object inside that world capable of making decisions, like a dog or a penguin.  In Vizor, you use 3D objects to populate both the world and characters of your Storycast.  
+
+To brainstorm ideas for your Storycast, we will borrow a technique from Pixar called the <i>“what if”</i> game.  In this game, you come up with a “what if” question that involves both a world and a character.  For example, what if toys came alive while humans weren’t looking?  What if a fish got lost in the ocean?  What if it was a job for monsters to scare humans?  In each question, there should be a clear world and character involved.
+
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>What If?</strong>
+  </div> 
+  Come up with at least 5 “what if” questions for your Storycast idea.  Remember both the world and the character will have to be built in Vizor, so browse the objects available for inspiration on worlds and characters to use. 
 </div>
+<br>
 
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit2/ActivityA/WhatIf.jpg">
+	<br>
+	What if a mad scientist kept creating giant penguins?  
+</div>
+<br>
+
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Social Activity</strong>
+  </div> 
+  Turn the “what if” idea you are most excited about into a [meme](https://memegenerator.net/) and post it to the [Facebook group](fb.com/groups/techsummer)!   
+</div>
+<br>
+
+<div style="text-align:center">
+	<img src="/images/techsummer/Unit2/ActivityA/Meme.jpg">
+	<br>
+	Sounds like a stinky world. No thanks!  
+</div>
