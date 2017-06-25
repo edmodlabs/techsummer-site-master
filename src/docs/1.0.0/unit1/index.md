@@ -1,13 +1,17 @@
 ---
 title: 1.1) Assembling the VR Viewer
 section_title: 1) Build Your Reality!
-type:  diyvr
+type:  unit1
 layout: docs
 parent_section: docs
 order: 1
 section_order: 2
 
 ---
+
+
+
+
 
 ## Overview of StoryCasts
 

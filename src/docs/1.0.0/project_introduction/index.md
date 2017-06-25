@@ -1,7 +1,7 @@
 ---
 title: StoryCasts  
 section_title: Project Description
-type:  introduction
+type:  project_introduction
 layout: docs
 parent_section: docs
 order: 1
