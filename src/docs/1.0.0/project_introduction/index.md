@@ -63,7 +63,7 @@ The guide contains special sections called <i>flags</i> with different purposes.
   <div style="text-align:center">
   	<strong>Activity</strong>
   </div> 
-  Green flags represent the most fun part of Storycasts! These are social activities and actions you must complete before proceeding. To participate in many, you must be signed up for [the TechSummer Facebook group](https://www.facebook.com/groups/techsummer).
+  Green flags represent the most fun part of Storycasts! These are activities you must complete before proceeding. To participate in many, you must be signed up for [the TechSummer Facebook group](https://www.facebook.com/groups/techsummer).
 </div>
 <br>
 <div class="alert_red">
