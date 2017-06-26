@@ -32,7 +32,7 @@ TechSummer is all about **creation**. Our goal is to give you the tools and supp
 - Wed 7/12 - Office Hours #4
 
 **Week Four: Adding Agency**
-- Wed 7/17 - Office Hours #5
+- Mon 7/17 - Office Hours #5
 - Wed 7/19 - Office Hours #6
 - Fri 7/21 - Project Submission Deadline
 
