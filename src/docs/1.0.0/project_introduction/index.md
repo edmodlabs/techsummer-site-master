@@ -55,7 +55,7 @@ By the end of the program, you should have a complete Storycast project you can 
 
 ### Text Formats and Flags
 
-Throughout the instructions, text formats will help you understand content. <strong>Bold words</strong> indicate Vizor terminologies. For example, you will see <strong>Patches, Beginning Scene, Program Mode, Build Mode,</strong> and more. <i>Italic words</i> indicate important concepts and terms such as <i>virtual reality, computer graphics, visual programming,</i> and more.
+Throughout the instructions, text formats will help you understand content. <strong>Bold words</strong> indicate Vizor terms. For example, you will see <strong>Patches, Beginning Scene, Program Mode, Build Mode,</strong> and more. <i>Italic words</i> indicate important concepts and terms such as <i>virtual reality, computer graphics, visual programming,</i> and more.
 
 The guide contains special sections called <i>flags</i> with different purposes.
 
@@ -63,7 +63,7 @@ The guide contains special sections called <i>flags</i> with different purposes.
   <div style="text-align:center">
   	<strong>Activity</strong>
   </div> 
-  Green flags represent the most fun part of Storycasts! These are activities you must complete before proceeding. To participate in many, you must be signed up for [the TechSummer Facebook group](https://www.facebook.com/groups/techsummer).
+  Green flags represent the most fun part of Storycasts! These are activities you must complete before proceeding. To participate in some, you must be signed up for [the TechSummer Facebook group](https://www.facebook.com/groups/techsummer). If you cannot post to the Facebook group, email your work to techsummer@fb.com.
 </div>
 <br>
 <div class="alert_red">
@@ -77,6 +77,6 @@ The guide contains special sections called <i>flags</i> with different purposes.
   <div style="text-align:center">
   	<strong>Pro Tips</strong>
   </div> 
-  Yellow flags represent info our team finds cool. We're a team of engineers, film directors and more, so these are great to dive deeper into concepts and material.
+  Yellow flags represent reminders and info our team finds cool. We're a team of engineers, film directors and more, so these are great to dive deeper into concepts and material.
 </div>
 <br>

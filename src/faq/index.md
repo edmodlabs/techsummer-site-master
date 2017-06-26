@@ -9,20 +9,20 @@ toc: true
 Here are the steps to getting you what you need:
 1. Post in the [TechSummer Facebook group](facebook.com/groups/techsummer). 
 	
-	We prefer to answer questions on the Facebook Group so everyone can see the solutions. Chances are if you are running into something, others are as well.
+	We prefer to answer questions in the group so everyone can see solutions. Chances are if you are running into an issue, others are too.
 
 2. Did posting in the group not work out? Come to office hours! 
 
-3. Send an email to TechSummer@fb.com
+3. Send an email to TechSummer@fb.com.
 
 ## Should I use this website or the Facebook Group for materials?
-The [TechSummer Facebook group](facebook.com/groups/techsummer) is the best place to stay tuned about TechSummer. If you cannot join the group, we will send you important info via email and you can still complete the entire program via the [TechSummer Github](techsummer.github.io).
+The [TechSummer Facebook group](https://fb.com/groups/techsummer) is the best place to stay tuned about TechSummer. If you cannot join the group, we will send you important info via email and you can still complete the entire program via the [TechSummer Github](https://techsummer.github.io).
 
-## Who Should and Shouldn't use the VR Headset?
-Health and Saftey  forbids anyone from under 13 from using the headset.
+## Who should and shouldn't use the VR viewer?
+Health and safety forbids anyone under 13 from using the headset.
 
 ## Do I get to keep the VR Viewers after the program is done?
-Absolutely. These VR Viewers are yours to keep forever and customize as you see fit.
+Absolutely! These VR Viewers are yours to keep forever and customize as you see fit.
 
 
 ## What will I learn from TechSummer?

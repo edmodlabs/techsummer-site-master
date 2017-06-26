@@ -15,7 +15,7 @@ TechSummer is all about **creation**. Our goal is to give you the tools and supp
 
 ## Important Steps
 1. Join the [TechSummer Facebook group](https://www.facebook.com/groups/techsummer/) for important info and dates.
-2. Start the [Storycasts](/project_introduction) project!
+2. Start the [Storycasts](/docs/1.0.0/project_introduction/) project!
 3. Submit a completed Storycasts project to techsummer@fb.com by July 21, 2017.
 
 ## Timeline
@@ -46,7 +46,7 @@ Links to the main sections of the site are on the top left.
 
 - [PROJECT](/docs): Get all info for your Storycast project!
 - [RESOURCES](/community): Find links to cool content around the web such as VR experiences to try with your viewer.
-- [FB GROUP](https://www.facebook.com/groups/techsummer): Join the community for content, fun, and help for TechSummer. 
+- [FB GROUP](https://www.facebook.com/groups/techsummer): Join the community for extra TechSummer content, fun, and help. 
 - [FAQS](https://techsummer.github.io/faq/): Frequently Asked Questions. Need help? Look here.
 
 <hr>
