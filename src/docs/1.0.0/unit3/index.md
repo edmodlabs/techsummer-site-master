@@ -7,77 +7,71 @@ parent_section: docs
 order: 1
 section_order: 4
 ---
-<hr>
-Welcome to the **Vizor Starter Project**! Read the following details before you get started.
 
-## Project Goals
-Jump into building worlds with VR! By the end of the project, you will understand:
-* How computer graphics and VR can be used to create digital experiences.
-* How to use a platform named Vizor to build a virtual world you can share with anyone.
-* Key tips on designing virtual worlds from engineers at Facebook.
+## Overview
+Congratulations on reaching Unit 3! You’ve built a VR viewer, exercised your storytelling muscle, and started using Vizor.  Now, it’s time to add more technical work to the mix by learning how to add multiple types and amounts of <strong>objects</strong>.
 
-Below is an example of what you'll build. Hit play, then click and drag to look around. Later, you'll be able to dive into worlds like the one below using VR!
-<div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/lperez/lucia-s-world-copy" ></script>
-	<strong> "Lucia's World" - An Island World Created by a TechStart Student in California
-</div>
-
-Below are projects that use code to build interactive experiences. To build these types of projects, complete this project then explore Vizor's [video](https://www.youtube.com/playlist?list=PLL0Qt-QS9kmTNhmYOMOvy0XMyvzdAdFnX) and [written](https://blog.vizor.io/) tutorials. 
-
-<div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/fthr/open-hotspot" ></script>
-	<strong> A Street Corner on New York's Wall Street. Click on icons to learn about the city.
-</div>
-
-<div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/fthr/2nda" ></script>
-	<strong> A Stylized, Musical Trip Over a City. Try in VR with audio for the best experience!
-</div>
-
-<div style="text-align:center">
-	<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/lintu/lion-museum-10" ></script>
-	<strong> A Museum of Lions. Click on points to teleport. </strong>
-</div>
-
-You can view more projects on the [Vizor homepage](https://patches.vizor.io/).
-
-## Requirements
-* The project is designed to be completed by individual students, not teams, and should take 40-60 minutes.
-* Vizor is most easily used with a mouse.
-* Vizor projects are most exciting in VR! To use VR with Vizor, you'll need a computer that supports WebVR. Check the [Installing WebVR](/docs/1.0.0/introduction/installing_web_vr.html) section for more information.
-
-<div class="alert_red" style="text-align:center">
-  <strong>Warning:</strong> if your editor ever looks like the image below, you are in Vizor's "Patches" mode and should hit "Tab" on your keyboard to exit. Patches add programming to your world and will be explained in later projects.
-  <img src="/images/docs/intro_vizor/patches.png">
-</div>
-
-## Project Background
-
-Vizor and VR use computer graphics, also known as CG. CG is a field of computer science used to create art, models, animations, films, and more. The project will introduce you to some CG basics, which are used in applications beyond VR.
-
-<div style="text-align:center">
-	<img src="/images/docs/intro_vizor/photoshop.gif">
-	<br>
-	<strong> PhotoShop: use CG to bring pictures to life!  </strong>
+<div class="alert_red">
+  <div style="text-align:center">
+  	<strong>Stick With It</strong>
+  </div> 
+  We expect Unit 3 to be challenging - maybe even frustrating at times. If you feel overwhelmed or lost, you’re probably not the only one so don’t give up.  Visit the [Facebook group](fb.com/groups/techsummer) to get help, drop into office hours, and stick with Storycasts. There’s a whole community ready to help!
 </div>
 <br>
 
 <div style="text-align:center">
-	<img src="/images/docs/intro_vizor/blender.gif">
+	<img src="/images/techsummer/Unit3/3.1/patback.gif">
 	<br>
-	<strong> Blender: create realistic models and physics simulations!  </strong>
+	Pat yourself on the back and let's keep at it! 
+</div>
+
+## Juggling Objects
+
+In the last unit, you were introduced to the Storycast Vizor <strong>template</strong>.  You also saw <strong>Build Mode</strong> and <strong>Program Mode</strong> in Vizor. Your first task is to add an object to your project using patches.
+
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Set Up</strong>
+  </div> 
+  <strong>Edit</strong> and <strong>Duplicate</strong> the latest version of your Storycast <strong>template</strong> or start [from scratch](https://vizor.io/techsummer/storycast).
 </div>
 <br>
 
-<div style="text-align:center">
-	<img src="/images/docs/intro_vizor/unity.gif">
-	<br>
-	<strong> Unity: make animations and games!</strong>
-</div>
-<br>
+<div class="alert_green">
+  <div style="text-align:center">
+  	<strong>Add An Object</strong>
+  </div> 
+  Follow the steps below to add an object using <strong>Patches</strong>.
+  <ol>
+  	<li>
+  		In <strong>Build Mode</strong>, press the <strong>K</strong> key to switch to the <strong>Beginning Scene</strong>.
+  	</li>
 
-<div class="alert_green" style="text-align:center">
-  <strong><u>Before You Continue</u></strong>
-  <br>
-  If you want to see the world you create in VR, make sure your computer supports WebVR. Otherwise, you can create your project and use a VR-ready computer to view in VR later. Click the button below to dive in!
+  	<li>
+  		Press <strong>Tab</strong> to enter <strong>Program Mode</strong>. Navigate into the <strong>Beginning Scene nested patch</strong> by clicking the <strong>pencil icon</strong>. 
+  	</li>
+
+  	<li>
+  		To add a 3D object to the scene, drag and drop one from from the <strong>Patches Tab</strong> on the left into the patches area.  It should add a purple <strong>nested patch</strong> with the name of the 3D object. 
+		<div style="text-align:center">
+			<img src="/images/techsummer/Unit3/3.1/addPatch.gif">
+		</div>
+  	</li>
+
+  	<li>
+  		To appear, the 3D object <strong>nested patch</strong> needs to be connected to the <strong>Elements</strong> patch. The <strong>Elements</strong> patch contains a list of 3D objects to display for the scene. Click and drag a line from the <strong>nested patch</strong> slot to the <strong>Elements</strong> slot.
+  		<div style="text-align:center">
+			<img src="/images/techsummer/Unit3/3.1/connectPatch.gif">
+		</div>
+  	</li>
+
+  	<li>
+  		Adjusting a 3D object cannot be done in <strong>Program Mode</strong>. Switch from <strong>Program Mode</strong> to <strong>Build Mode</strong> by hitting the <strong>Tab</strong> key. You can use the <strong>move</strong>, <strong>scale</strong> or <strong>rotate</strong> tools with the 3D object.
+  		<div style="text-align:center">
+			<img src="/images/techsummer/Unit3/3.1/adjustObject.gif">
+		</div>
+  	</li>
+  </ol>
 </div>
+
+Those are the basics of adding an object to a scene. Check out the next section for pro tips and warnings on using Vizor.
